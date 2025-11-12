@@ -1,29 +1,29 @@
 # Fdb version 4
-["bibtex thuthesis-example"] 1762877272.05481 "thuthesis-example.aux" "thuthesis-example.bbl" "thuthesis-example" 1762947295.22865 0
+["bibtex proposal"] 1762953918.91694 "proposal.aux" "proposal.bbl" "proposal" 1762953925.43402 0
   "./ref/refs.bib" 1743125438 10070 56fa6e4083d54e75ac0a1d9591c15223 ""
   "./thuthesis-numeric.bst" 1743125438 46501 76355add456694ad46ab5897d31bf849 ""
-  "bu.aux" 1762947293 2614 9b71e60794b63d602cef1d436daaf0ee "xelatex"
-  "thuthesis-example.aux" 1762947293 7834 af0643b11dbaca2236bc145bf31336d6 "xelatex"
+  "bu.aux" 1762953923 2614 9b71e60794b63d602cef1d436daaf0ee "xelatex"
+  "proposal.aux" 1762953923 7327 9eb38391a24b20b592787698105491c2 "xelatex"
   (generated)
-  "thuthesis-example.bbl"
-  "thuthesis-example.blg"
+  "proposal.bbl"
+  "proposal.blg"
   (rewritten before read)
-["bibtex thuthesis-example-appendix-a"] 1762842226.03198 "thuthesis-example-appendix-a.aux" "thuthesis-example-appendix-a.bbl" "thuthesis-example-appendix-a" 1762947295.22939 0
+["bibtex proposal-appendix-a"] 1762947680.12319 "proposal-appendix-a.aux" "proposal-appendix-a.bbl" "proposal-appendix-a" 1762953925.43484 0
   "./ref/refs.bib" 1743125438 10070 56fa6e4083d54e75ac0a1d9591c15223 ""
   "./thuthesis-numeric.bst" 1743125438 46501 76355add456694ad46ab5897d31bf849 ""
-  "thuthesis-example-appendix-a.aux" 1762947293 250 76a1d6137cc68ea9dce760c3f73c501d "xelatex"
+  "proposal-appendix-a.aux" 1762953923 250 76a1d6137cc68ea9dce760c3f73c501d "xelatex"
   (generated)
-  "thuthesis-example-appendix-a.bbl"
-  "thuthesis-example-appendix-a.blg"
+  "proposal-appendix-a.bbl"
+  "proposal-appendix-a.blg"
   (rewritten before read)
-["xdvipdfmx"] 1762947294.53001 "thuthesis-example.xdv" "thuthesis-example.pdf" "thuthesis-example" 1762947295.24455 0
-  "thuthesis-example.xdv" 1762947293 363104 14691a4d45f957d7efd5518679e76c1d "xelatex"
+["xdvipdfmx"] 1762953924.73029 "proposal.xdv" "proposal.pdf" "proposal" 1762953925.45089 0
+  "proposal.xdv" 1762953923 286492 10cbf2afcbc730909be4be3d1530e078 "xelatex"
   (generated)
-  "thuthesis-example.pdf"
+  "proposal.pdf"
   (rewritten before read)
-["xelatex"] 1762947289.15113 "d:/Desktop/硕士毕业论文/thuthesis-v7.6.0/thuthesis-example.tex" "thuthesis-example.xdv" "thuthesis-example" 1762947295.22993 0
-  "bu.aux" 1762947293 2614 9b71e60794b63d602cef1d436daaf0ee "xelatex"
-  "d:/Desktop/硕士毕业论文/thuthesis-v7.6.0/thuthesis-example.tex" 1762946792 2473 2a23a84f73af2de2a3c0be75cab8d1b6 ""
+["xelatex"] 1762953919.26636 "d:/Desktop/硕士毕业论文/thuthesis-v7.6.0/proposal.tex" "proposal.xdv" "proposal" 1762953925.43549 0
+  "bu.aux" 1762953923 2614 9b71e60794b63d602cef1d436daaf0ee "xelatex"
+  "d:/Desktop/硕士毕业论文/thuthesis-v7.6.0/proposal.tex" 1762947990 2481 6f3c0f32e40accd14566d759ab48afc6 ""
   "d:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1727872558 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "d:/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1727873974 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1727872247 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -156,33 +156,27 @@
   "d:/texlive/2024/texmf-dist/web2c/texmf.cnf" 1727871968 41649 5d6ae549fbbcb850a863f69aa41f3d10 ""
   "d:/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt" 1727874148 10849689 fc6efa3a875acb4747d86f958f8363c6 ""
   "d:/texlive/2024/texmf.cnf" 1727873989 713 e69b156964470283e0530f5060668171 ""
-  "data/abstract.tex" 1743125438 2280 fcecaabb914cdd15503f3b5ed305e7dc ""
   "data/appendix.tex" 1743125438 1922 0fcd8b152587d1d1ecbcae01313f37d0 ""
-  "data/chap01.tex" 1743125438 4656 d44e0a0aa2e57a9bbc172f5934e77b41 ""
+  "data/chap01.tex" 1762953910 6799 94f79ef16a83578f77576e1e304e4b37 ""
   "data/chap02.tex" 1743125438 5091 d386d3d5a8260003cba02c7f04fc6187 ""
   "data/chap03.tex" 1743125438 3836 ebe9ee81f60debfe213e5d78fad917fe ""
   "data/chap04.tex" 1743125438 2980 07bf9a08e2a26b5eb7128a58d2279919 ""
-  "data/denotation.tex" 1743125438 5438 e7204563883927b70bcb6925e976b1d9 ""
   "data/resume.tex" 1762860141 2486 e51010f41418aa67645f2493c944fb88 ""
-  "thusetup.tex" 1762946862 5618 4ff7420b637119547f15fafe5682b8cd ""
-  "thuthesis-example-appendix-a.aux" 1762947293 250 76a1d6137cc68ea9dce760c3f73c501d "xelatex"
-  "thuthesis-example-appendix-a.bbl" 1762842226 940 99b7ad2c5384f62823cc62aa209e53f6 "bibtex thuthesis-example-appendix-a"
-  "thuthesis-example.aux" 1762947293 7834 af0643b11dbaca2236bc145bf31336d6 "xelatex"
-  "thuthesis-example.bbl" 1762877272 8644 03666b046d53ee3abf4335b7dd1c8e50 "bibtex thuthesis-example"
-  "thuthesis-example.lof" 1762947293 381 d7e00ac7b774088cd11ffffef1d90735 "xelatex"
-  "thuthesis-example.lot" 1762947293 471 274800b52d573c69cad5f7f1f338e30d "xelatex"
-  "thuthesis-example.out" 1762947293 3992 a26e2ff9d1563766db79dd483581b7d8 "xelatex"
-  "thuthesis-example.tex" 1762946792 2473 2a23a84f73af2de2a3c0be75cab8d1b6 ""
-  "thuthesis-example.toc" 1762947293 2362 76fc461674f0ac1eed4be44a5afe60b6 "xelatex"
-  "thuthesis.cls" 1762947288 116161 a4225fa8bd833003ae00347072cd7dce ""
+  "proposal-appendix-a.aux" 1762953923 250 76a1d6137cc68ea9dce760c3f73c501d "xelatex"
+  "proposal-appendix-a.bbl" 1762947680 940 99b7ad2c5384f62823cc62aa209e53f6 "bibtex proposal-appendix-a"
+  "proposal.aux" 1762953923 7327 9eb38391a24b20b592787698105491c2 "xelatex"
+  "proposal.bbl" 1762953919 8644 03666b046d53ee3abf4335b7dd1c8e50 "bibtex proposal"
+  "proposal.out" 1762953923 3502 b1fd5d3549cd3514623c8a68ccbe5671 "xelatex"
+  "proposal.tex" 1762947990 2481 6f3c0f32e40accd14566d759ab48afc6 ""
+  "proposal.toc" 1762953923 2077 d80b564b8838b2e1bcf7933e9fd6c3c8 "xelatex"
+  "thusetup.tex" 1762951401 5644 871cb98c36623f1b3777caa3f45561f1 ""
+  "thuthesis.cls" 1762953913 116161 a4225fa8bd833003ae00347072cd7dce ""
   (generated)
   "bu.aux"
-  "thuthesis-example-appendix-a.aux"
-  "thuthesis-example.aux"
-  "thuthesis-example.lof"
-  "thuthesis-example.log"
-  "thuthesis-example.lot"
-  "thuthesis-example.out"
-  "thuthesis-example.toc"
-  "thuthesis-example.xdv"
+  "proposal-appendix-a.aux"
+  "proposal.aux"
+  "proposal.log"
+  "proposal.out"
+  "proposal.toc"
+  "proposal.xdv"
   (rewritten before read)

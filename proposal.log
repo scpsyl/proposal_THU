@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.2)  12 NOV 2025 19:34
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.2)  12 NOV 2025 21:25
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/Desktop/硕士毕业论文/thuthesis-v7.6.0/thuthesis-example.tex
-(d:/Desktop/硕士毕业论文/thuthesis-v7.6.0/thuthesis-example.tex
+**d:/Desktop/硕士毕业论文/thuthesis-v7.6.0/proposal.tex
+(d:/Desktop/硕士毕业论文/thuthesis-v7.6.0/proposal.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (./thuthesis.cls
@@ -987,8 +987,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \c@thu@bookmark=\count388
 Package translations Info: No language package found. I am going to use `english' as default language. on input line 21.
- (./thuthesis-example.aux (./bu.aux))
-\openout1 = `thuthesis-example.aux'.
+ (./proposal.aux (./bu.aux))
+\openout1 = `proposal.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
@@ -1082,9 +1082,9 @@ File: translations-basic-dictionary-english.trsl (english translation file `tran
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 21.
 Package hyperref Info: Link coloring OFF on input line 21.
- (./thuthesis-example.out) (./thuthesis-example.out)
+ (./proposal.out) (./proposal.out)
 \@outlinefile=\write4
-\openout4 = `thuthesis-example.out'.
+\openout4 = `proposal.out'.
 
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: xetex
@@ -1183,59 +1183,36 @@ LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
 
 
 
-] (./data/abstract.tex [1
-
-
-
-
-
-
-]) [2
-
-
-] (./thuthesis-example.toc)
+] (./proposal.toc)
 \tf@toc=\write5
-\openout5 = `thuthesis-example.toc'.
+\openout5 = `proposal.toc'.
 
- [3
-
-
-] (./thuthesis-example.lof)
-\tf@lof=\write6
-\openout6 = `thuthesis-example.lof'.
-
- [4
+ [1
 
 
-] (./thuthesis-example.lot)
-\tf@lot=\write7
-\openout7 = `thuthesis-example.lot'.
-
- (./data/denotation.tex [5
 
 
-]
-LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
-(Font)              scaled to size 12.04628pt on input line 31.
-LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
-(Font)              scaled to size 9.03471pt on input line 31.
-LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
-(Font)              scaled to size 7.22777pt on input line 31.
-LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
-(Font)              scaled to size 12.0437pt on input line 31.
-LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
-(Font)              scaled to size 9.03278pt on input line 31.
-LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
-(Font)              scaled to size 7.22623pt on input line 31.
- [6
 
 
-]) [7] (./data/chap01.tex
+] (./data/chap01.tex
 第1章
 [1
 
 
-]) (./data/chap02.tex [2] [3]
+]
+LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
+(Font)              scaled to size 12.04628pt on input line 65.
+LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
+(Font)              scaled to size 9.03471pt on input line 65.
+LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
+(Font)              scaled to size 7.22777pt on input line 65.
+LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
+(Font)              scaled to size 12.0437pt on input line 65.
+LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
+(Font)              scaled to size 9.03278pt on input line 65.
+LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
+(Font)              scaled to size 7.22623pt on input line 65.
+ [2]) (./data/chap02.tex [3]
 第2章
 LaTeX Font Info:    Font shape `TU/CourierNew(0)/m/n' will be
 (Font)              scaled to size 12.74046pt on input line 7.
@@ -1280,7 +1257,7 @@ Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on inp
 )
 \openout3 = `bu.aux'.
 
- (./thuthesis-example.bbl [9
+ (./proposal.bbl [9
 
 ] [10
 
@@ -1289,30 +1266,30 @@ Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on inp
 附录 A
 File: example-image-a.pdf Graphic file (type pdf)
 <use example-image-a.pdf>
-(./thuthesis-example-appendix-a.aux)
-\openout3 = `thuthesis-example-appendix-a.aux'.
+(./proposal-appendix-a.aux)
+\openout3 = `proposal-appendix-a.aux'.
 
- (./thuthesis-example-appendix-a.bbl [12
+ (./proposal-appendix-a.bbl [12
 
 ])) [13] (./data/resume.tex (./bu.aux)) (./bu.aux) [14
 
 
 
-] (./thuthesis-example.aux (./bu.aux))
+] (./proposal.aux (./bu.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
-Package rerunfilecheck Info: File `thuthesis-example.out' has not changed.
-(rerunfilecheck)             Checksum: A26E2FF9D1563766DB79DD483581B7D8;3992.
+Package rerunfilecheck Info: File `proposal.out' has not changed.
+(rerunfilecheck)             Checksum: B1FD5D3549CD3514623C8A68CCBE5671;3502.
  ) 
 Here is how much of TeX's memory you used:
- 31798 strings out of 474773
- 697222 string characters out of 5761289
- 1942842 words of memory out of 5000000
- 53415 multiletter control sequences out of 15000+600000
- 566617 words of font info for 177 fonts, out of 8000000 for 9000
+ 31758 strings out of 474773
+ 695817 string characters out of 5761289
+ 1943842 words of memory out of 5000000
+ 53386 multiletter control sequences out of 15000+600000
+ 566609 words of font info for 176 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
- 106i,16n,130p,1454b,2768s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 106i,16n,130p,1445b,2768s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on thuthesis-example.xdv (22 pages, 363104 bytes).
+Output written on proposal.xdv (16 pages, 286492 bytes).
