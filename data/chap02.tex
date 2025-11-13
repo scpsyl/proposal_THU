@@ -1,149 +1,49 @@
 % !TeX root = ../thuthesis-example.tex
 
-\chapter{图表示例}
+\chapter{国内外研究现状及分析}
 
-\section{插图}
+\section{具身导航方法发展现状}
 
-图片通常在 \env{figure} 环境中使用 \cs{includegraphics} 插入，如图~\ref{fig:example} 的源代码。
-建议矢量图片使用 PDF 格式，比如数据可视化的绘图；
-照片应使用 JPG 格式；
-其他的栅格图应使用无损的 PNG 格式。
-注意，LaTeX 不支持 TIFF 格式；EPS 格式已经过时。
+近年来，面向落地应用的导航技术经历了从传统移动机器人导航到具身导航（Embodied Navigation）的持续演进。
+传统移动机器人导航在建图、定位与路径规划等模块上已经形成了较为成熟的理论和工程体系\citep{Yao2023MobileNavCN, Abdulsaheb2023Classical}，
+在室内服务机器人、AGV 等场景中普遍应用，但其最直接的缺陷在于：其对语义理解和复杂交互的支持有限，无法满足指令驱动的移动操作的需求。
+随着大语言模型（Large Language Model, LLM）的提出与发展，研究逐渐转向“在未知或半未知环境中一边感知、一边交互、一边优化导航策略”的具身导航范式，
+强调利用本体传感器主动探索、在线构建语义地图与对象级表示 \citep{Wu2024EmbodiedNavSurvey,Wang2025LLMEmbodiedSysCN,Gao2025EMLM}。
+在感知模态上，出现了以纯视觉为主的具身视觉导航（Embodied Visual Navigation, E-VN）任务，如 PointNav、ImageNav 和 ObjectNav等\citep{Krantz2022InstanceImageNav, Chaplot2020SemExp}，
+以及进一步引入语言指令约束的视觉–语言导航（VLN），使机器人能够在仿真和真实环境中根据自然语言描述执行跨房间导航与目标搜索 \citep{Anderson2018VLNR2R,Gu2022VLNSurvey}，
+依托 Habitat 等高保真平台开展系统评测\citep{Savva2019Habitat}，在纯 RGB 或 RGB-D 输入下实现了从“到坐标”到“到物体/到语义位置”的能力提升。
+与此同时，针对真实复杂环境中单一传感器易受遮挡和噪声影响的问题，大量工作探索了激光雷达、相机、IMU 等多源传感器融合导航方案，
+通过深度学习和强化学习对多模态信息进行联合建模，以提高定位精度和动态环境下的鲁棒性 \citep{Huang2022MultiModalSensorFusion,Zhang2024VLNFM}。
 
-\begin{figure}
-  \centering
-  \includegraphics[width=0.5\linewidth]{example-image-a.pdf}
-  \caption*{国外的期刊习惯将图表的标题和说明文字写成一段，需要改写为标题只含图表的名称，其他说明文字以注释方式写在图表下方，或者写在正文中。}
-  \caption{示例图片标题}
-  \label{fig:example}
-\end{figure}
+在产业界，以自动驾驶为代表的车企和出行公司则在大规模道路数据和强算力平台支撑下，形成了两条具有代表性的落地路线：
+一类以多传感器冗余为特点（如摄像头 + 激光雷达 + 高精地图）的模块化感知–规划–控制栈，强调安全冗余和可解释性；
+另一类则以特斯拉 FSD v12 及后续版本为代表，采用“从像素到控制”的端到端视频 Transformer，仅依赖多路摄像头进行感知与决策，
+在真实道路上大规模部署并不断通过在线数据闭环迭代 \citep{Waymo2023TechBlog,Tesla2023FSDv12}。
 
-若图或表中有附注，采用英文小写字母顺序编号，附注写在图或表的下方。
-国外的期刊习惯将图表的标题和说明文字写成一段，需要改写为标题只含图表的名称，其他说明文字以注释方式写在图表下方，或者写在正文中。
+总体来看，这些从传统导航到具身导航、从纯视觉到多模态融合、从模块化到端到端的技术演进，为具身移动操作中的“先走到哪儿再动手”提供了坚实的导航基础。
 
-如果一个图由两个或两个以上分图组成时，各分图分别以 (a)、(b)、(c)...... 作为图序，并须有分图题。
-推荐使用 \pkg{subcaption} 宏包来处理， 比如图~\ref{fig:subfig-a} 和图~\ref{fig:subfig-b}。
+\section{模型驱动的具身移动操作方法研究现状}
 
-\begin{figure}
-  \centering
-  \subcaptionbox{分图 A\label{fig:subfig-a}}
-    {\includegraphics[width=0.35\linewidth]{example-image-a.pdf}}
-  \subcaptionbox{分图 B\label{fig:subfig-b}}
-    {\includegraphics[width=0.35\linewidth]{example-image-b.pdf}}
-  \caption{多个分图的示例}
-  \label{fig:multi-image}
-\end{figure}
+\section{视觉–语言–动作大模型与通用具身策略进展}
 
+随着大规模多模态模型的发展，视觉–语言–动作（Vision–Language–Action, VLA）大模型逐渐成为连接高层语义理解与低层控制的重要桥梁。
+早期代表性工作 PaLM-SayCan 采用“大模型 + 技能库”的结构，将大型语言模型与一组可执行的原子技能相结合，由语言模型完成任务分解与技能排序，再由低层策略执行具体技能，
+实现了从自然语言到多步机器人操作的闭环，实验表明更强的语言模型可以显著提升规划正确率与任务成功率，并通过中间评分提供一定可解释性 \cite{Ahn2022SayCan}。
+随后，RT-1 将 Transformer 架构直接用于从多任务真实机器人轨迹中学习端到端控制，将图像、任务文本与历史动作编码为序列并输出离散化的低层动作 token，
+在大规模数据上展现出良好的任务泛化与零样本迁移能力 \cite{Brohan2022RT1}；
+RT-2 进一步将互联网规模的视觉–语言预训练与机器人数据结合，将 VLM 直接扩展为 VLA，使单一模型既能继承 web 语义知识，又能输出可执行动作，实现了更强的语义推理与跨任务泛化 \cite{Brohan2023RT2}。
+与此同时，Open X-Embodiment 等跨平台数据集以及 RT-X 等通用策略工作尝试将多种机器人形态、任务和数据源统一到一个大模型中，为“跨本体、跨场景的通用 VLA 策略”奠定了数据与算法基础 \cite{DeepMind2023RTX}。
 
+在模型形态上，近年来面向具身智能的 VLA 模型数量迅速增加，相关综述从“任务角色”和“动作表征”两个角度对其进行了系统归纳：一类模型以高层规划器为主，将长时序任务分解为子目标或技能序列，
+再交由传统导航与操作模块执行；另一类模型则直接预测连续或离散化的低层动作，用于端到端控制；还有一类通过分层结构，将高层语言–视觉推理与低层动作解码解耦，以在长程语义推理的同时保持控制精度 \cite{Ma2024VLASurvey,Kim2024OpenVLA}。
+例如，OpenVLA 在 Open X-Embodiment 等大规模数据上预训练 7B 级 VLA 模型，采用“视觉编码器 + LLM 主干 + 动作头”的标准架构，在多种机械臂和任务上取得了开放源代码条件下的 SOTA 性能 \cite{Kim2024OpenVLA}；
+Physical Intelligence 提出的 $\pi_0$ 系列则在预训练 VLM 基础上引入基于 flow/diffusion 的动作专家，将图像–文本–动作统一到一个连续动作流模型中，强调跨机器人形态与复杂操控任务的一般性 \cite{PI2024Pi0}。
+在移动操作方向，MoManipVLA 等工作开始关注“如何把固定基座操控 VLA 迁移到移动操作”：利用预训练 VLA 模型输出具备强泛化能力的末端位姿 waypoint，再通过双层轨迹优化联合规划底盘与机械臂的全身轨迹，在 OVMM 基准和真实环境中显著提升了跨任务、跨环境的成功率 \cite{Wu2025MoManipVLA}。
+工业界也开始推出面向机器人场景专门优化的 VLA 模型，例如 Gemini Robotics 1.5 在 Gemini 多模态模型基础上引入动作通道，可直接输出多种机器人平台的控制命令，并提供云端与本地轻量版本，以权衡性能和时延 \cite{GeminiRobotics1p5}。
 
-\section{表格}
-
-表应具有自明性。表中参数应标明量和单位的符号。
-为使表格简洁易读，均采用三线表（例如表~\ref{tab:three-line}）。
-必要时可加辅助线，三线表无法清晰表达时可采用其他格式。
-
-表序与表题置于表的上方。表单元格中的文字一般应居中书写（上下居中，左右居中），
-不宜左右居中书写的，可采取两端对齐的方式书写。
-
-\begin{table}
-  \centering
-  \caption{三线表示例}
-  \begin{tabular}{cc}
-    \toprule
-    文件名          & 描述                         \\
-    \midrule
-    thuthesis.dtx   & 模板的源文件，包括文档和注释 \\
-    thuthesis.cls   & 模板文件                     \\
-    thuthesis-*.bst & BibTeX 参考文献表样式文件    \\
-    \bottomrule
-  \end{tabular}
-  \label{tab:three-line}
-\end{table}
-
-若表中有附注，采用英文小写字母顺序编号，附注写在表的下方。
-推荐使用 \pkg{threeparttable} 宏包。
-
-\begin{table}
-  \centering
-  \begin{threeparttable}[c]
-    \caption{带附注的表格示例}
-    \label{tab:three-part-table}
-    \begin{tabular}{cc}
-      \toprule
-      文件名                 & 描述                         \\
-      \midrule
-      thuthesis.dtx\tnote{a} & 模板的源文件，包括文档和注释 \\
-      thuthesis.cls\tnote{b} & 模板文件                     \\
-      thuthesis-*.bst        & BibTeX 参考文献表样式文件    \\
-      \bottomrule
-    \end{tabular}
-    \begin{tablenotes}
-      \item [a] 可以通过 xelatex 编译生成模板的使用说明文档；
-        使用 xetex 编译 \file{thuthesis.ins} 时则会从 \file{.dtx} 中去除掉文档和注释，得到精简的 \file{.cls} 文件。
-      \item [b] 更新模板时，一定要记得编译生成 \file{.cls} 文件，否则编译论文时载入的依然是旧版的模板。
-    \end{tablenotes}
-  \end{threeparttable}
-\end{table}
-
-如某个表需要转页接排，可以“续表”的形式另页打印，格式同前，只需在每页表序前加“续”字即可。
-续表均应重复表头。
-推荐使用 \pkg{longtable} 宏包。
-
-\begin{longtable}{cccc}
-    \caption{跨页长表格的表题}
-    \label{tab:longtable} \\
-    \toprule
-    表头 1 & 表头 2 & 表头 3 & 表头 4 \\
-    \midrule
-  \endfirsthead
-    \caption*{续表~\thetable\quad 跨页长表格的表题} \\
-    \toprule
-    表头 1 & 表头 2 & 表头 3 & 表头 4 \\
-    \midrule
-  \endhead
-    \bottomrule
-  \endfoot
-  Row 1  & & & \\
-  Row 2  & & & \\
-  Row 3  & & & \\
-  Row 4  & & & \\
-  Row 5  & & & \\
-  Row 6  & & & \\
-  Row 7  & & & \\
-  Row 8  & & & \\
-  Row 9  & & & \\
-  Row 10 & & & \\
-\end{longtable}
+总体来看，这一路线的优势在于：1）统一建模视觉、语言与动作，天然适配“从指令到行为”的具身任务形式；2）通过大规模预训练与指令微调，具备一定的跨任务、跨环境和跨本体泛化能力；3）可以在同一模型中兼顾高层任务规划与低层动作生成，为长时序移动操作提供统一的表达与接口。
+但其不足也较突出：一方面，现有许多系统仍然采用“语言模型高层规划 + 独立导航/操作控制器”的松耦合结构，导航与精细操作之间的几何约束、可达性和安全约束往往通过启发式接口传递，难以系统优化；另一方面，动作 token 或连续动作流的表征与安全机制尚不成熟，对具有复杂接触、狭窄空间与强约束的精细移动操作任务（例如在拥挤实验台、密集货架之间灵活调整视角并完成操作）的支持有限。
+此外，大规模 VLA 模型在训练与推理阶段对数据、算力与实时性的要求较高，开放源代码模型在多机器人、多场景上的可复用性与易用性也有待进一步提升，这些都为后续“面向通用场景的具身移动操作 VLA 框架”留出了值得深入研究的空间。
 
 
-
-\section{算法}
-
-算法环境可以使用 \pkg{algorithms} 或者 \pkg{algorithm2e} 宏包。
-
-\renewcommand{\algorithmicrequire}{\textbf{输入：}\unskip}
-\renewcommand{\algorithmicensure}{\textbf{输出：}\unskip}
-
-\begin{algorithm}
-  \caption{Calculate $y = x^n$}
-  \label{alg1}
-  \small
-  \begin{algorithmic}
-    \REQUIRE $n \geq 0$
-    \ENSURE $y = x^n$
-
-    \STATE $y \leftarrow 1$
-    \STATE $X \leftarrow x$
-    \STATE $N \leftarrow n$
-
-    \WHILE{$N \neq 0$}
-      \IF{$N$ is even}
-        \STATE $X \leftarrow X \times X$
-        \STATE $N \leftarrow N / 2$
-      \ELSE[$N$ is odd]
-        \STATE $y \leftarrow y \times X$
-        \STATE $N \leftarrow N - 1$
-      \ENDIF
-    \ENDWHILE
-  \end{algorithmic}
-\end{algorithm}
+\section{移动操作在产业界的发展现状}

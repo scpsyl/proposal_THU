@@ -1,29 +1,29 @@
 # Fdb version 4
-["bibtex proposal"] 1762953918.91694 "proposal.aux" "proposal.bbl" "proposal" 1762953925.43402 0
-  "./ref/refs.bib" 1743125438 10070 56fa6e4083d54e75ac0a1d9591c15223 ""
+["bibtex proposal"] 1763037645.80699 "proposal.aux" "proposal.bbl" "proposal" 1763037652.03113 0
+  "./ref/refs.bib" 1763037071 15622 ce569f5f2bd7b653e5103e0c5f44e325 ""
   "./thuthesis-numeric.bst" 1743125438 46501 76355add456694ad46ab5897d31bf849 ""
-  "bu.aux" 1762953923 2614 9b71e60794b63d602cef1d436daaf0ee "xelatex"
-  "proposal.aux" 1762953923 7327 9eb38391a24b20b592787698105491c2 "xelatex"
+  "bu.aux" 1763037649 4157 ced776a495f3f3b3438a330e7280b91c "xelatex"
+  "proposal.aux" 1763037649 5650 5cda572348e9c5614400e2ff145a9f68 "xelatex"
   (generated)
   "proposal.bbl"
   "proposal.blg"
   (rewritten before read)
-["bibtex proposal-appendix-a"] 1762947680.12319 "proposal-appendix-a.aux" "proposal-appendix-a.bbl" "proposal-appendix-a" 1762953925.43484 0
-  "./ref/refs.bib" 1743125438 10070 56fa6e4083d54e75ac0a1d9591c15223 ""
+["bibtex proposal-appendix-a"] 1763037090.70484 "proposal-appendix-a.aux" "proposal-appendix-a.bbl" "proposal-appendix-a" 1763037652.03182 0
+  "./ref/refs.bib" 1763037071 15622 ce569f5f2bd7b653e5103e0c5f44e325 ""
   "./thuthesis-numeric.bst" 1743125438 46501 76355add456694ad46ab5897d31bf849 ""
-  "proposal-appendix-a.aux" 1762953923 250 76a1d6137cc68ea9dce760c3f73c501d "xelatex"
+  "proposal-appendix-a.aux" 1763037649 250 76a1d6137cc68ea9dce760c3f73c501d "xelatex"
   (generated)
   "proposal-appendix-a.bbl"
   "proposal-appendix-a.blg"
   (rewritten before read)
-["xdvipdfmx"] 1762953924.73029 "proposal.xdv" "proposal.pdf" "proposal" 1762953925.45089 0
-  "proposal.xdv" 1762953923 286492 10cbf2afcbc730909be4be3d1530e078 "xelatex"
+["xdvipdfmx"] 1763037651.38088 "proposal.xdv" "proposal.pdf" "proposal" 1763037652.04619 0
+  "proposal.xdv" 1763037649 307000 4ee147c0dac347ecdc73e89529d70807 "xelatex"
   (generated)
   "proposal.pdf"
   (rewritten before read)
-["xelatex"] 1762953919.26636 "d:/Desktop/硕士毕业论文/thuthesis-v7.6.0/proposal.tex" "proposal.xdv" "proposal" 1762953925.43549 0
-  "bu.aux" 1762953923 2614 9b71e60794b63d602cef1d436daaf0ee "xelatex"
-  "d:/Desktop/硕士毕业论文/thuthesis-v7.6.0/proposal.tex" 1762947990 2481 6f3c0f32e40accd14566d759ab48afc6 ""
+["xelatex"] 1763037646.1479 "d:/Desktop/硕士毕业论文/thuthesis-v7.6.0/proposal.tex" "proposal.xdv" "proposal" 1763037652.03232 0
+  "bu.aux" 1763037649 4157 ced776a495f3f3b3438a330e7280b91c "xelatex"
+  "d:/Desktop/硕士毕业论文/thuthesis-v7.6.0/proposal.tex" 1763006316 2479 4a7b215ad9acbc9885a08a03c6d6c99a ""
   "d:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1727872558 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "d:/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1727873974 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "d:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1727872247 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -125,7 +125,6 @@
   "d:/texlive/2024/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty" 1727872827 1180 6fa680297853e95f173b451108f02041 ""
   "d:/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty" 1727873083 6149 2398eec4faa1ee24ff761581e580ecf1 ""
   "d:/texlive/2024/texmf-dist/tex/latex/mwe/example-image-a.pdf" 1727873089 12160 f5a33a472bc2acb8800c3e00764d8ad1 ""
-  "d:/texlive/2024/texmf-dist/tex/latex/mwe/example-image-b.pdf" 1727873089 17201 df559bd1afe49e7edc5b8a552f742861 ""
   "d:/texlive/2024/texmf-dist/tex/latex/natbib/natbib.sty" 1727873098 45456 1c8843383c0bd05870c45fa0ebea6cc2 ""
   "d:/texlive/2024/texmf-dist/tex/latex/notoccite/notoccite.sty" 1727873140 1670 c3db86ff5e2cf2c709ba2199f37dd265 ""
   "d:/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty" 1727873211 6572 ea530fbbe537629fd97736d33babc07d ""
@@ -156,21 +155,22 @@
   "d:/texlive/2024/texmf-dist/web2c/texmf.cnf" 1727871968 41649 5d6ae549fbbcb850a863f69aa41f3d10 ""
   "d:/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt" 1727874148 10849689 fc6efa3a875acb4747d86f958f8363c6 ""
   "d:/texlive/2024/texmf.cnf" 1727873989 713 e69b156964470283e0530f5060668171 ""
+  "data/abstract.tex" 1743125438 2280 fcecaabb914cdd15503f3b5ed305e7dc ""
   "data/appendix.tex" 1743125438 1922 0fcd8b152587d1d1ecbcae01313f37d0 ""
-  "data/chap01.tex" 1762953910 6799 94f79ef16a83578f77576e1e304e4b37 ""
-  "data/chap02.tex" 1743125438 5091 d386d3d5a8260003cba02c7f04fc6187 ""
+  "data/chap01.tex" 1763006205 7114 50d966c9d8518c410359ed6cbfa918e6 ""
+  "data/chap02.tex" 1763037632 2841 dc2a7f8b6057f6ffd5caf24e1891d192 ""
   "data/chap03.tex" 1743125438 3836 ebe9ee81f60debfe213e5d78fad917fe ""
   "data/chap04.tex" 1743125438 2980 07bf9a08e2a26b5eb7128a58d2279919 ""
   "data/resume.tex" 1762860141 2486 e51010f41418aa67645f2493c944fb88 ""
-  "proposal-appendix-a.aux" 1762953923 250 76a1d6137cc68ea9dce760c3f73c501d "xelatex"
-  "proposal-appendix-a.bbl" 1762947680 940 99b7ad2c5384f62823cc62aa209e53f6 "bibtex proposal-appendix-a"
-  "proposal.aux" 1762953923 7327 9eb38391a24b20b592787698105491c2 "xelatex"
-  "proposal.bbl" 1762953919 8644 03666b046d53ee3abf4335b7dd1c8e50 "bibtex proposal"
-  "proposal.out" 1762953923 3502 b1fd5d3549cd3514623c8a68ccbe5671 "xelatex"
-  "proposal.tex" 1762947990 2481 6f3c0f32e40accd14566d759ab48afc6 ""
-  "proposal.toc" 1762953923 2077 d80b564b8838b2e1bcf7933e9fd6c3c8 "xelatex"
-  "thusetup.tex" 1762951401 5644 871cb98c36623f1b3777caa3f45561f1 ""
-  "thuthesis.cls" 1762953913 116161 a4225fa8bd833003ae00347072cd7dce ""
+  "proposal-appendix-a.aux" 1763037649 250 76a1d6137cc68ea9dce760c3f73c501d "xelatex"
+  "proposal-appendix-a.bbl" 1763037091 940 99b7ad2c5384f62823cc62aa209e53f6 "bibtex proposal-appendix-a"
+  "proposal.aux" 1763037649 5650 5cda572348e9c5614400e2ff145a9f68 "xelatex"
+  "proposal.bbl" 1763037646 12927 5c60be50b26aa4bc2c0e0473f01a1327 "bibtex proposal"
+  "proposal.out" 1763037649 3254 2ae4b0110ca4b3ffb4f9781b2091cee7 "xelatex"
+  "proposal.tex" 1763006316 2479 4a7b215ad9acbc9885a08a03c6d6c99a ""
+  "proposal.toc" 1763037649 1885 961a4b68e1d057a4bd8b619f744c30e5 "xelatex"
+  "thusetup.tex" 1762964986 5739 45424da2d8f24c1a55f26db2a9828830 ""
+  "thuthesis.cls" 1763037634 116161 a4225fa8bd833003ae00347072cd7dce ""
   (generated)
   "bu.aux"
   "proposal-appendix-a.aux"

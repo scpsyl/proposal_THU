@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.2)  12 NOV 2025 21:25
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.2)  13 NOV 2025 20:40
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -643,8 +643,8 @@ Package: l3keys2e 2024-02-18 LaTeX2e option processing using LaTeX3 keys
 \l__um_primecount_int=\count345
 \g__um_primekern_muskip=\muskip19
  (d:/texlive/2024/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex)))
-LaTeX Info: Redefining \boldsymbol on input line 130.
-LaTeX Info: Redefining \mathellipsis on input line 130.
+LaTeX Info: Redefining \boldsymbol on input line 131.
+LaTeX Info: Redefining \mathellipsis on input line 131.
 
 Package fontspec Info: Font family 'XITSMath-Regular(0)' created for font
 (fontspec)             'XITSMath-Regular' with options
@@ -670,13 +670,13 @@ Package fontspec Info: Font family 'XITSMath-Regular(1)' created for font
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 130.
+(Font)              `operators' in the math version `normal' on input line 131.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/XITSMath-Regular(1)/m/n on input line 130.
+(Font)                  OT1/cmr/m/n --> TU/XITSMath-Regular(1)/m/n on input line 131.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 130.
+(Font)              `operators' in the math version `bold' on input line 131.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/XITSMath-Regular(1)/b/n on input line 130.
+(Font)                  OT1/cmr/bx/n --> TU/XITSMath-Regular(1)/b/n on input line 131.
 
 Package fontspec Info: XITSMath-Regular scale = 1.0001.
 
@@ -723,13 +723,13 @@ Package fontspec Info: Font family 'XITSMath-Regular(2)' created for font
 (fontspec)             =0pt\relax \fontdimen 21\font =0pt\relax 
 
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 130.
+(Font)              `symbols' in the math version `normal' on input line 131.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/cmsy/m/n --> TU/XITSMath-Regular(2)/m/n on input line 130.
+(Font)                  OMS/cmsy/m/n --> TU/XITSMath-Regular(2)/m/n on input line 131.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 130.
+(Font)              `symbols' in the math version `bold' on input line 131.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/cmsy/b/n --> TU/XITSMath-Regular(2)/b/n on input line 130.
+(Font)                  OMS/cmsy/b/n --> TU/XITSMath-Regular(2)/b/n on input line 131.
 
 Package fontspec Info: XITSMath-Regular scale = 0.9999.
 
@@ -764,13 +764,13 @@ Package fontspec Info: Font family 'XITSMath-Regular(3)' created for font
 (fontspec)             =7.227pt\relax \fontdimen 13\font =0pt\relax 
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 130.
+(Font)              `largesymbols' in the math version `normal' on input line 131.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/cmex/m/n --> TU/XITSMath-Regular(3)/m/n on input line 130.
+(Font)                  OMX/cmex/m/n --> TU/XITSMath-Regular(3)/m/n on input line 131.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 130.
+(Font)              `largesymbols' in the math version `bold' on input line 131.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/cmex/m/n --> TU/XITSMath-Regular(3)/b/n on input line 130.
+(Font)                  OMX/cmex/m/n --> TU/XITSMath-Regular(3)/b/n on input line 131.
 
 Package fontspec Info: Font family 'XITSMath-Regular(4)' created for font
 (fontspec)             'XITSMath-Regular' with options
@@ -785,9 +785,9 @@ Package fontspec Info: Font family 'XITSMath-Regular(4)' created for font
 
 \sym__um_fam1=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `__um_fam1' in version `normal'
-(Font)                  TU/XITSMath-Regular(4)/m/n --> TU/XITSMath-Regular(4)/m/n on input line 130.
+(Font)                  TU/XITSMath-Regular(4)/m/n --> TU/XITSMath-Regular(4)/m/n on input line 131.
 LaTeX Font Info:    Overwriting symbol font `__um_fam1' in version `bold'
-(Font)                  TU/XITSMath-Regular(4)/m/n --> TU/XITSMath-Regular(4)/b/n on input line 130.
+(Font)                  TU/XITSMath-Regular(4)/m/n --> TU/XITSMath-Regular(4)/b/n on input line 131.
  (d:/texlive/2024/texmf-dist/tex/latex/threeparttable/threeparttable.sty
 Package: threeparttable 2003/06/13  v 3.0
 \@tempboxb=\box70
@@ -1183,15 +1183,21 @@ LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
 
 
 
+] (./data/abstract.tex [1
+
+
+
+
+
+
+]) [2
+
+
 ] (./proposal.toc)
 \tf@toc=\write5
 \openout5 = `proposal.toc'.
 
- [1
-
-
-
-
+ [3
 
 
 ] (./data/chap01.tex
@@ -1199,79 +1205,70 @@ LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
 [1
 
 
-]
-LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
-(Font)              scaled to size 12.04628pt on input line 65.
-LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
-(Font)              scaled to size 9.03471pt on input line 65.
-LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
-(Font)              scaled to size 7.22777pt on input line 65.
-LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
-(Font)              scaled to size 12.0437pt on input line 65.
-LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
-(Font)              scaled to size 9.03278pt on input line 65.
-LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
-(Font)              scaled to size 7.22623pt on input line 65.
- [2]) (./data/chap02.tex [3]
+] [2]) (./data/chap02.tex [3]
 第2章
-LaTeX Font Info:    Font shape `TU/CourierNew(0)/m/n' will be
-(Font)              scaled to size 12.74046pt on input line 7.
-File: example-image-a.pdf Graphic file (type pdf)
-<use example-image-a.pdf>
-File: example-image-a.pdf Graphic file (type pdf)
-<use example-image-a.pdf>
-File: example-image-b.pdf Graphic file (type pdf)
-<use example-image-b.pdf>
-[4
+LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
+(Font)              scaled to size 12.04628pt on input line 8.
+LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
+(Font)              scaled to size 9.03471pt on input line 8.
+LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
+(Font)              scaled to size 7.22777pt on input line 8.
+LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
+(Font)              scaled to size 12.0437pt on input line 8.
+LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
+(Font)              scaled to size 9.03278pt on input line 8.
+LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
+(Font)              scaled to size 7.22623pt on input line 8.
+) (./data/chap03.tex [4
 
 ]
-LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 51.
-LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
-(Font)              scaled to size 11.04242pt on input line 51.
-LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
-(Font)              scaled to size 7.72966pt on input line 51.
-LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
-(Font)              scaled to size 5.5212pt on input line 51.
-LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
-(Font)              scaled to size 11.04005pt on input line 51.
-LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
-(Font)              scaled to size 7.728pt on input line 51.
-LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
-(Font)              scaled to size 5.52002pt on input line 51.
-LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
-(Font)              scaled to size 7.00075pt on input line 81.
-LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 81.
-LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 81.
-LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 81.
- [5]
-Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 128.
-) (./data/chap03.tex [6]
 第3章
-[7
+LaTeX Font Info:    Font shape `TU/CourierNew(0)/m/n' will be
+(Font)              scaled to size 12.74046pt on input line 17.
+[5
 
-]) (./data/chap04.tex [8]
+]) (./data/chap04.tex [6]
 第4章
 )
 \openout3 = `bu.aux'.
 
- (./proposal.bbl [9
+ (./proposal.bbl [7
 
-] [10
+]
+LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
+(Font)              scaled to size 7.00075pt on input line 83.
+LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
+(Font)              scaled to size 5.00053pt on input line 83.
+LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
+(Font)              scaled to size 6.99925pt on input line 83.
+LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
+(Font)              scaled to size 4.99947pt on input line 83.
+ [8
 
 
-]) (./data/appendix.tex (./bu.aux) [11]
+] [9]) (./data/appendix.tex (./bu.aux) [10]
 附录 A
 File: example-image-a.pdf Graphic file (type pdf)
 <use example-image-a.pdf>
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 31.
+LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
+(Font)              scaled to size 11.04242pt on input line 31.
+LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
+(Font)              scaled to size 7.72966pt on input line 31.
+LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
+(Font)              scaled to size 5.5212pt on input line 31.
+LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
+(Font)              scaled to size 11.04005pt on input line 31.
+LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
+(Font)              scaled to size 7.728pt on input line 31.
+LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
+(Font)              scaled to size 5.52002pt on input line 31.
 (./proposal-appendix-a.aux)
 \openout3 = `proposal-appendix-a.aux'.
 
- (./proposal-appendix-a.bbl [12
+ (./proposal-appendix-a.bbl [11
 
-])) [13] (./data/resume.tex (./bu.aux)) (./bu.aux) [14
+])) [12] (./data/resume.tex (./bu.aux)) (./bu.aux) [13
 
 
 
@@ -1281,15 +1278,15 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `proposal.out' has not changed.
-(rerunfilecheck)             Checksum: B1FD5D3549CD3514623C8A68CCBE5671;3502.
+(rerunfilecheck)             Checksum: 2AE4B0110CA4B3FFB4F9781B2091CEE7;3254.
  ) 
 Here is how much of TeX's memory you used:
- 31758 strings out of 474773
- 695817 string characters out of 5761289
- 1943842 words of memory out of 5000000
- 53386 multiletter control sequences out of 15000+600000
- 566609 words of font info for 176 fonts, out of 8000000 for 9000
+ 31619 strings out of 474773
+ 688107 string characters out of 5761289
+ 1946842 words of memory out of 5000000
+ 53250 multiletter control sequences out of 15000+600000
+ 566585 words of font info for 173 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
- 106i,16n,130p,1445b,2768s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 106i,12n,130p,1445b,2768s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on proposal.xdv (16 pages, 286492 bytes).
+Output written on proposal.xdv (17 pages, 307000 bytes).

@@ -1,4 +1,4 @@
-\begin{thebibliography}{34}
+\begin{thebibliography}{48}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax\else
@@ -10,6 +10,83 @@
   \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
   \let\eprint\href
 \fi
+
+\bibitem[姚陈鹏等(2023)姚陈鹏, 石文博, 刘成菊, 陈虹, and 陈启军]{Yao2023MobileNavCN}
+姚陈鹏, 石文博, 刘成菊, 等.
+\newblock 移动机器人导航技术综述\allowbreak[J].
+\newblock 中国科学: 信息科学, 2023, 53\allowbreak (12): 2303-2324.
+
+\bibitem[Abdulsaheb et~al.(2023)Abdulsaheb and Kadhim]{Abdulsaheb2023Classical}
+Abdulsaheb J~A, Kadhim D~J.
+\newblock Classical and heuristic approaches for mobile robot path planning: A survey\allowbreak[J].
+\newblock Robotics, 2023, 12\allowbreak (4): 93.
+
+\bibitem[Wu et~al.(2024)Wu, Zhang, Gu, Zheng, and Bai]{Wu2024EmbodiedNavSurvey}
+Wu Y, Zhang P, Gu M, et~al.
+\newblock Embodied navigation with multi-modal information: A survey from tasks to methodology\allowbreak[J].
+\newblock Information Fusion, 2024, 112: 102532.
+
+\bibitem[王文晟等(2025)王文晟, 谭宁, 黄凯, 张雨浓, 郑伟诗, and 孙富春]{Wang2025LLMEmbodiedSysCN}
+王文晟, 谭宁, 黄凯, 等.
+\newblock 基于大模型的具身智能系统综述\allowbreak[J].
+\newblock 自动化学报, 2025, 51\allowbreak (1): 1-19.
+
+\bibitem[高超等(2025)高超, 杨莹, 陈世超, and 廉小亲]{Gao2025EMLM}
+高超, 杨莹, 陈世超, 等.
+\newblock 多模态模型驱动的具身智能研究综述\allowbreak[J].
+\newblock 智能感知工程, 2025, 2\allowbreak (2): 1-12.
+
+\bibitem[Krantz et~al.(2022)Krantz, Maksymets, Gokaslan, Clegg, Undersander, Tombari, Turner, Wijmans, Savva, and Batra]{Krantz2022InstanceImageNav}
+Krantz J, Maksymets O, Gokaslan A, et~al.
+\newblock Instance-specific image goal navigation: Training embodied agents to find object instances\allowbreak[A].
+\newblock 2022.
+
+\bibitem[Chaplot et~al.(2020)Chaplot, Gandhi, Gupta, and Salakhutdinov]{Chaplot2020SemExp}
+Chaplot D~S, Gandhi D~P, Gupta A, et~al.
+\newblock Object goal navigation using goal-oriented semantic exploration\allowbreak[C]//\allowbreak
+Larochelle H, Ranzato M, Hadsell R, et~al.
+\newblock Advances in Neural Information Processing Systems (NeurIPS).
+\newblock Curran Associates, Inc., 2020: 4247-4258.
+
+\bibitem[Anderson et~al.(2018)Anderson, Wu, Teney, Bruce, Johnson, Sünderhauf, Reid, Gould, and van~den Hengel]{Anderson2018VLNR2R}
+Anderson P, Wu Q, Teney D, et~al.
+\newblock Vision-and-language navigation: Interpreting visually-grounded navigation instructions in real environments\allowbreak[C]//\allowbreak
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+\newblock IEEE Computer Society, 2018.
+
+\bibitem[Gu et~al.(2022)Gu, Stefani, Wu, Thomason, and Wang]{Gu2022VLNSurvey}
+Gu J, Stefani E, Wu Q, et~al.
+\newblock Vision-and-language navigation: A survey of tasks, methods, and future directions\allowbreak[C]//\allowbreak
+Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL).
+\newblock Dublin, Ireland: Association for Computational Linguistics, 2022.
+
+\bibitem[Savva et~al.(2019)Savva, Kadian, Maksymets, Zhao, Wijmans, Jain, Straub, Liu, Koltun, Malik, Parikh, and Batra]{Savva2019Habitat}
+Savva M, Kadian A, Maksymets O, et~al.
+\newblock Habitat: A platform for embodied ai research\allowbreak[C]//\allowbreak
+Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV).
+\newblock Seoul, Korea: IEEE Computer Society, 2019.
+
+\bibitem[Huang et~al.(2022)Huang, Shi, Li, Li, Huang, and Li]{Huang2022MultiModalSensorFusion}
+Huang K, Shi B, Li X, et~al.
+\newblock Multi-modal sensor fusion for auto driving perception: A survey\allowbreak[A].
+\newblock 2022.
+
+\bibitem[Zhang et~al.(2024)Zhang, Ma, Li, Qiao, Wang, Chai, Wu, Bansal, and Kordjamshidi]{Zhang2024VLNFM}
+Zhang Y, Ma Z, Li J, et~al.
+\newblock Vision-and-language navigation today and tomorrow: A survey in the era of foundation models\allowbreak[A].
+\newblock 2024.
+
+\bibitem[{Waymo}(2023)]{Waymo2023TechBlog}
+{Waymo}.
+\newblock Waymo self-driving technology overview\allowbreak[EB/OL].
+\newblock 2023\allowbreak[2025-11-13].
+\newblock \url{https://waymo.com/tech/}.
+
+\bibitem[Karpathy et~al.(2023)Karpathy and {Tesla Autopilot Team}]{Tesla2023FSDv12}
+Karpathy A, {Tesla Autopilot Team}.
+\newblock Tesla full self-driving (fsd) v12 end-to-end neural network architecture\allowbreak[EB/OL].
+\newblock 2023\allowbreak[2025-11-13].
+\newblock \url{https://www.tesla.com/AI}.
 
 \bibitem[张昆等(1994)张昆, 冯立群, 余昌钰, et~al.]{zhangkun1994}
 张昆, 冯立群, 余昌钰, 等.
