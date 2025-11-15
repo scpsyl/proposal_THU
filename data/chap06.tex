@@ -1,0 +1,60 @@
+% !TeX root = ../thuthesis-example.tex
+
+\chapter{研究计划与进展}
+
+\section{已完成工作概括}
+
+前期工作已在具身导航、多模态感知、风险识别、主动视觉精细操作以及轮式双臂移动操作本体等方面形成了较为扎实的技术与系统基础：
+在面向化学实验室场景，设计并搭建了自主巡检与风险排除机器人系统，实现了从语言/规则指令出发到“巡检–识别–处置”的闭环流程，并以共同第一作者撰写一篇期刊论文在投；
+面向双臂精细操作场景，搭建了基于主动视觉驱动的双臂操作平台，分别在仿真和真机上验证了：“细节观测”对于有限样本条件下提升了精细操作任务的稳定性与鲁棒性，并以第一作者撰写一篇会议论文在投；
+面向数据驱动的操作任务，参与设计了基于外骨骼的包含触觉反馈的数据采集系统，验证了其装置的便携性、数据质量的有效性，并作为第二作者撰写一篇会议论文，已被接收；
+同时作为某头部机器人公司算法方向实习生，深度参与了基于轮式双臂移动操作本体的重点落地项目，在仿真和真机平台上系统验证了数据驱动统一控制框架的可行性。
+这些工作为后续开展基于视觉–语言–动作模型的具身移动操作研究提供了可直接复用的数据管线和算法模块。
+
+\section{在学期间发表的学术论文与研究成果}
+
+\begin{publications}
+  \item Shoujie Li*, \textbf{Yushan Liu*}, et al. ALARMbot: Autonomous Laboratory Safety Inspection and Operable Hazard Intervention Robot Enabled by Foundation Models. IEEE Transactions on Automation Science and Engineering (T-ASE), Under Review. (共同一作，JCR一区期刊)
+  \item \textbf{Yushan Liu*}, Shilong Mu*, et al. AVR: Active Vision-Driven Precise Robot Manipulation with Viewpoint and Focal Length Optimization. IEEE International Conference on Robotics \& Automation (ICRA 2026), Under Review. (第一作者，清华大学A类会议)
+  \item Xintao Chao*, Shilong Mu*, \textbf{Yushan Liu}, et al. Exo-ViHa: A Cross-Platform Exoskeleton System with Visual and Haptic Feedback for Efficient Dexterous Skill Learning. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025), Accepted. (第二作者，清华大学B类会议)
+
+\end{publications}
+
+
+\section{研究计划}
+
+\begin{table}[htbp]
+  \centering
+  \caption{研究工作计划}
+  \renewcommand{\arraystretch}{2} % 行距稍微拉开一点
+  \begin{tabular}{
+    >{\centering\arraybackslash}p{0.22\textwidth}
+    >{\centering\arraybackslash}p{0.70\textwidth}
+  }
+    \toprule
+    \textbf{日期} & \textbf{研究内容} \\
+    \midrule
+    2025.09--2025.12 &
+    梳理视觉--语言--动作（VLA）、具身导航与移动操作相关文献，
+    统一现有实验平台与代码框架，完成主要仿真环境、数据处理与训练评测流水线的搭建； \\
+
+    2026.01--2026.04 &
+    面向移动操作任务设计 VLA 中间表征与模型架构，在典型室内场景中完成基础策略的实现与对比，
+    开展仿真实验与消融分析； \\
+
+    2026.05--2026.08 &
+    对拟提出的 VLA 驱动具身移动操作方法进行系统完善与工程优化，
+    在多种真机和多类场景下验证其通用性与鲁棒性； \\
+
+    2026.09--2026.11 &
+    整理与归纳全部实验数据与代码，撰写至少一篇学术论文并完成投稿； \\
+
+    2026.12--2027.02 &
+    完成学位论文初稿； \\
+
+    2027.03--2027.06 &
+    完成学位论文终稿，准备毕业答辩。 \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+

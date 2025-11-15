@@ -1,4 +1,4 @@
-\begin{thebibliography}{48}
+\begin{thebibliography}{65}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax\else
@@ -11,7 +11,90 @@
   \let\eprint\href
 \fi
 
-\bibitem[姚陈鹏等(2023)姚陈鹏, 石文博, 刘成菊, 陈虹, and 陈启军]{Yao2023MobileNavCN}
+\bibitem[Liu et~al.(2025)Liu, Chen, Bai, and {\textit{et al.}}]{Liu2025AligningCyberSpace}
+Liu Y, Chen W, Bai Y, et~al.
+\newblock Aligning cyber space with physical world: A comprehensive survey on embodied ai\allowbreak[J].
+\newblock IEEE/ASME Transactions on Mechatronics, 2025, 30\allowbreak (3): 1-22.
+
+\bibitem[Xiao et~al.(2025)Xiao, Liu, Wang, and {\textit{et al.}}]{Xiao2025Robot}
+Xiao X, Liu J, Wang Z, et~al.
+\newblock Robot learning in the era of foundation models: A survey\allowbreak[J].
+\newblock Neurocomputing, 2025: 129963.
+
+\bibitem[Thakar et~al.(2023)Thakar, Srinivasan, Al-Hussaini, and {\textit{et al.}}]{Thakar2023Survey}
+Thakar S, Srinivasan S, Al-Hussaini S, et~al.
+\newblock A survey of wheeled mobile manipulation: A decision-making perspective\allowbreak[J].
+\newblock Journal of Mechanisms and Robotics, 2023, 15\allowbreak (2): 020801.
+
+\bibitem[{\text{中华人民共和国国务院}}(2017)]{SC2017AIDevelopmentPlan}
+{\text{中华人民共和国国务院}}.
+\newblock {新一代人工智能发展规划}[EB/OL]\allowbreak[EB/OL].
+\newblock 2017.
+\newblock \url{https://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm}.
+
+\bibitem[{\text{工业和信息化部等}}(2021)]{MIIT2021RobotPlan}
+{\text{工业和信息化部等}}.
+\newblock {“十四五”机器人产业发展规划}[EB/OL]\allowbreak[EB/OL].
+\newblock 2021.
+\newblock \url{https://www.gov.cn/zhengce/zhengceku/2021-12/28/content_5664988.htm}.
+
+\bibitem[{\text{中华人民共和国教育部}}(2018)]{MOE2018AIActionPlan}
+{\text{中华人民共和国教育部}}.
+\newblock {高等学校人工智能创新行动计划}[EB/OL]\allowbreak[EB/OL].
+\newblock 2018.
+\newblock \url{http://www.moe.gov.cn/srcsite/A16/s7062/201804/t20180410_332722.html}.
+
+\bibitem[Anderson et~al.(2018)Anderson, Wu, Teney, and {\textit{et al.}}]{Anderson2018VLNR2R}
+Anderson P, Wu Q, Teney D, et~al.
+\newblock Vision-and-language navigation: Interpreting visually-grounded navigation instructions in real environments\allowbreak[C]//\allowbreak
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+\newblock IEEE Computer Society, 2018.
+
+\bibitem[Ahn et~al.(2022)Ahn, Brohan, Brown, and {\textit{et al.}}]{Ahn2022SayCan}
+Ahn M, Brohan A, Brown N, et~al.
+\newblock Do as i can, not as i say: Grounding language in robotic affordances\allowbreak[A].
+\newblock 2022.
+
+\bibitem[Brohan et~al.(2022)Brohan, Brown, Carbajal, and {\textit{et al.}}]{Brohan2022RT1}
+Brohan A, Brown N, Carbajal J, et~al.
+\newblock Rt-1: Robotics transformer for real-world control at scale\allowbreak[A].
+\newblock 2022.
+
+\bibitem[Driess et~al.(2023)Driess, Xia, Sajjadi, and {\textit{et al.}}]{Driess2023PALME}
+Driess D, Xia F, Sajjadi M~S, et~al.
+\newblock Palm-e: An embodied multimodal language model\allowbreak[A].
+\newblock 2023.
+
+\bibitem[Kim et~al.(2024)Kim, Pertsch, Karamcheti, and {\textit{et al.}}]{Kim2024OpenVLA}
+Kim M~J, Pertsch K, Karamcheti S, et~al.
+\newblock Openvla: An open-source vision-language-action model\allowbreak[A].
+\newblock 2024.
+
+\bibitem[Jiang et~al.(2023)Jiang, Gupta, Zhang, and {\textit{et al.}}]{Jiang2023VIMA}
+Jiang Y, Gupta A, Zhang Z, et~al.
+\newblock Vima: General robot manipulation with multimodal prompts\allowbreak[C]//\allowbreak
+Fortieth International Conference on Machine Learning.
+\newblock PMLR, 2023.
+
+\bibitem[Shridhar et~al.(2022)Shridhar, Manuelli, and Fox]{Shridhar2022CLIPORT}
+Shridhar M, Manuelli L, Fox D.
+\newblock Cliport: What and where pathways for robotic manipulation\allowbreak[C]//\allowbreak
+Conference on robot learning.
+\newblock PMLR, 2022: 894-906.
+
+\bibitem[Shridhar et~al.(2023)Shridhar, Manuelli, and Fox]{Shridhar2023PERACT}
+Shridhar M, Manuelli L, Fox D.
+\newblock Perceiver-actor: A multi-task transformer for robotic manipulation\allowbreak[C]//\allowbreak
+Conference on Robot Learning.
+\newblock PMLR, 2023: 785-799.
+
+\bibitem[Zitkovich et~al.(2023)Zitkovich, Yu, Xu, and {\textit{et al.}}]{Zitkovich2023RT2}
+Zitkovich B, Yu T, Xu S, et~al.
+\newblock Rt-2: Vision-language-action models transfer web knowledge to robotic control\allowbreak[C]//\allowbreak
+Conference on Robot Learning.
+\newblock PMLR, 2023: 2165-2183.
+
+\bibitem[姚陈鹏等(2023)姚陈鹏, 石文博, 刘成菊, and 等]{Yao2023MobileNavCN}
 姚陈鹏, 石文博, 刘成菊, 等.
 \newblock 移动机器人导航技术综述\allowbreak[J].
 \newblock 中国科学: 信息科学, 2023, 53\allowbreak (12): 2303-2324.
@@ -21,60 +104,96 @@ Abdulsaheb J~A, Kadhim D~J.
 \newblock Classical and heuristic approaches for mobile robot path planning: A survey\allowbreak[J].
 \newblock Robotics, 2023, 12\allowbreak (4): 93.
 
-\bibitem[Wu et~al.(2024)Wu, Zhang, Gu, Zheng, and Bai]{Wu2024EmbodiedNavSurvey}
+\bibitem[Wu et~al.(2024)Wu, Zhang, Gu, and {\textit{et al.}}]{Wu2024EmbodiedNavSurvey}
 Wu Y, Zhang P, Gu M, et~al.
 \newblock Embodied navigation with multi-modal information: A survey from tasks to methodology\allowbreak[J].
 \newblock Information Fusion, 2024, 112: 102532.
 
-\bibitem[王文晟等(2025)王文晟, 谭宁, 黄凯, 张雨浓, 郑伟诗, and 孙富春]{Wang2025LLMEmbodiedSysCN}
+\bibitem[王文晟等(2025)王文晟, 谭宁, 黄凯, and 等]{Wang2025LLMEmbodiedSysCN}
 王文晟, 谭宁, 黄凯, 等.
 \newblock 基于大模型的具身智能系统综述\allowbreak[J].
 \newblock 自动化学报, 2025, 51\allowbreak (1): 1-19.
 
-\bibitem[高超等(2025)高超, 杨莹, 陈世超, and 廉小亲]{Gao2025EMLM}
+\bibitem[高超等(2025)高超, 杨莹, 陈世超, and 等]{Gao2025EMLM}
 高超, 杨莹, 陈世超, 等.
 \newblock 多模态模型驱动的具身智能研究综述\allowbreak[J].
 \newblock 智能感知工程, 2025, 2\allowbreak (2): 1-12.
 
-\bibitem[Krantz et~al.(2022)Krantz, Maksymets, Gokaslan, Clegg, Undersander, Tombari, Turner, Wijmans, Savva, and Batra]{Krantz2022InstanceImageNav}
+\bibitem[Krantz et~al.(2022)Krantz, Maksymets, Gokaslan, and {\textit{et al.}}]{Krantz2022InstanceImageNav}
 Krantz J, Maksymets O, Gokaslan A, et~al.
 \newblock Instance-specific image goal navigation: Training embodied agents to find object instances\allowbreak[A].
 \newblock 2022.
 
-\bibitem[Chaplot et~al.(2020)Chaplot, Gandhi, Gupta, and Salakhutdinov]{Chaplot2020SemExp}
+\bibitem[Chaplot et~al.(2020)Chaplot, Gandhi, Gupta, and {\textit{et al.}}]{Chaplot2020SemExp}
 Chaplot D~S, Gandhi D~P, Gupta A, et~al.
 \newblock Object goal navigation using goal-oriented semantic exploration\allowbreak[C]//\allowbreak
 Larochelle H, Ranzato M, Hadsell R, et~al.
 \newblock Advances in Neural Information Processing Systems (NeurIPS).
 \newblock Curran Associates, Inc., 2020: 4247-4258.
 
-\bibitem[Anderson et~al.(2018)Anderson, Wu, Teney, Bruce, Johnson, Sünderhauf, Reid, Gould, and van~den Hengel]{Anderson2018VLNR2R}
-Anderson P, Wu Q, Teney D, et~al.
-\newblock Vision-and-language navigation: Interpreting visually-grounded navigation instructions in real environments\allowbreak[C]//\allowbreak
-Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
-\newblock IEEE Computer Society, 2018.
-
-\bibitem[Gu et~al.(2022)Gu, Stefani, Wu, Thomason, and Wang]{Gu2022VLNSurvey}
+\bibitem[Gu et~al.(2022)Gu, Stefani, Wu, and {\textit{et al.}}]{Gu2022VLNSurvey}
 Gu J, Stefani E, Wu Q, et~al.
 \newblock Vision-and-language navigation: A survey of tasks, methods, and future directions\allowbreak[C]//\allowbreak
 Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL).
 \newblock Dublin, Ireland: Association for Computational Linguistics, 2022.
 
-\bibitem[Savva et~al.(2019)Savva, Kadian, Maksymets, Zhao, Wijmans, Jain, Straub, Liu, Koltun, Malik, Parikh, and Batra]{Savva2019Habitat}
+\bibitem[Savva et~al.(2019)Savva, Kadian, Maksymets, and {\textit{et al.}}]{Savva2019Habitat}
 Savva M, Kadian A, Maksymets O, et~al.
 \newblock Habitat: A platform for embodied ai research\allowbreak[C]//\allowbreak
 Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV).
 \newblock Seoul, Korea: IEEE Computer Society, 2019.
 
-\bibitem[Huang et~al.(2022)Huang, Shi, Li, Li, Huang, and Li]{Huang2022MultiModalSensorFusion}
+\bibitem[Huang et~al.(2022)Huang, Shi, Li, and {\textit{et al.}}]{Huang2022MultiModalSensorFusion}
 Huang K, Shi B, Li X, et~al.
 \newblock Multi-modal sensor fusion for auto driving perception: A survey\allowbreak[A].
 \newblock 2022.
 
-\bibitem[Zhang et~al.(2024)Zhang, Ma, Li, Qiao, Wang, Chai, Wu, Bansal, and Kordjamshidi]{Zhang2024VLNFM}
-Zhang Y, Ma Z, Li J, et~al.
-\newblock Vision-and-language navigation today and tomorrow: A survey in the era of foundation models\allowbreak[A].
-\newblock 2024.
+\bibitem[张燕咏等(2020)张燕咏, 张莎, 张昱, and 等]{Zhang2020MultiModalSensorFusion}
+张燕咏, 张莎, 张昱, 等.
+\newblock 基于多模态融合的自动驾驶感知及计算\allowbreak[J].
+\newblock 计算机研究与发展, 2020, 57\allowbreak (9): 1781-1799.
+
+\bibitem[McCormac et~al.(2017)McCormac, Handa, Davison, and {\textit{et al.}}]{McCormac2017SemanticFusion}
+McCormac J, Handa A, Davison A, et~al.
+\newblock Semanticfusion: Dense 3d semantic mapping with convolutional neural networks\allowbreak[C]//\allowbreak
+Proceedings of the IEEE International Conference on Robotics and Automation (ICRA).
+\newblock IEEE, 2017: 4628-4635.
+
+\bibitem[Narita et~al.(2019)Narita, Seno, Ishikawa, and {\textit{et al.}}]{Narita2019PanopticFusion}
+Narita G, Seno T, Ishikawa T, et~al.
+\newblock Panopticfusion: Online volumetric semantic mapping at the level of stuff and things\allowbreak[C]//\allowbreak
+Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
+\newblock IEEE, 2019: 4205-4212.
+
+\bibitem[Dai et~al.(2017)Dai, Chang, Savva, and {\textit{et al.}}]{Dai2017ScanNet}
+Dai A, Chang A~X, Savva M, et~al.
+\newblock Scannet: Richly-annotated 3d reconstructions of indoor scenes\allowbreak[C]//\allowbreak
+Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+\newblock IEEE, 2017: 2432-2443.
+
+\bibitem[Chang et~al.(2017)Chang, Dai, Funkhouser, and {\textit{et al.}}]{Chang2017Matterport3D}
+Chang A, Dai A, Funkhouser T, et~al.
+\newblock Matterport3d: Learning from rgb-d data in indoor environments\allowbreak[C]//\allowbreak
+Proceedings of the International Conference on 3D Vision (3DV).
+\newblock IEEE, 2017: 667-676.
+
+\bibitem[Peng et~al.(2023)Peng, Genova, Jiang, and {\textit{et al.}}]{Peng2023OpenScene}
+Peng S, Genova K, Jiang C, et~al.
+\newblock Openscene: 3d scene understanding with open vocabularies\allowbreak[C]//\allowbreak
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+\newblock IEEE, 2023: 815-824.
+
+\bibitem[He et~al.(2024)He, Peng, Jiang, and {\textit{et al.}}]{He2024UniMOV3D}
+He Q, Peng J, Jiang Z, et~al.
+\newblock Unim-ov3d: uni-modality open-vocabulary 3d scene understanding with fine-grained feature representation\allowbreak[C]//\allowbreak
+Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI).
+\newblock IJCAI, 2024: 821-829.
+
+\bibitem[Werby et~al.(2024)Werby, Huang, Büchner, and {\textit{et al.}}]{Werby2024HierarchicalOV3DSG}
+Werby A, Huang C, Büchner M, et~al.
+\newblock Hierarchical open-vocabulary 3d scene graphs for language-grounded robot navigation\allowbreak[C]//\allowbreak
+Proceedings of Robotics: Science and Systems.
+\newblock Delft, Netherlands: RSS, 2024.
 
 \bibitem[{Waymo}(2023)]{Waymo2023TechBlog}
 {Waymo}.
@@ -88,193 +207,164 @@ Karpathy A, {Tesla Autopilot Team}.
 \newblock 2023\allowbreak[2025-11-13].
 \newblock \url{https://www.tesla.com/AI}.
 
-\bibitem[张昆等(1994)张昆, 冯立群, 余昌钰, et~al.]{zhangkun1994}
-张昆, 冯立群, 余昌钰, 等.
-\newblock 机器人柔性手腕的球面齿轮设计研究\allowbreak[J].
-\newblock 清华大学学报: 自然科学版, 1994, 34\allowbreak (2): 1-7.
+\bibitem[Han et~al.(2023)Han, Mulyana, Stankovic, and {\textit{et al.}}]{Han2023DRLManip}
+Han D, Mulyana B, Stankovic V, et~al.
+\newblock A survey on deep reinforcement learning algorithms for robotic manipulation\allowbreak[J].
+\newblock Sensors, 2023, 23\allowbreak (7): 3762.
 
-\bibitem[竺可桢(1973)]{zhukezhen1973}
-竺可桢.
-\newblock 物理学论\allowbreak[M].
-\newblock 北京: 科学出版社, 1973: 56-60.
+\bibitem[Celemin et~al.(2022)Celemin, P{\'e}rez-Dattari, Chisari, and {\textit{et al.}}]{Celemin2022IILSurvey}
+Celemin C, P{\'e}rez-Dattari R, Chisari E, et~al.
+\newblock Interactive imitation learning in robotics: A survey\allowbreak[J].
+\newblock Foundations and Trends{\textregistered} in Robotics, 2022, 10\allowbreak (1-2): 1-197.
 
-\bibitem[Dupont(1974)]{dupont1974bone}
-Dupont B.
-\newblock Bone marrow transplantation in severe combined immunodeficiency with an unrelated mlc compatible donor\allowbreak[C]//\allowbreak
-White H~J, Smith R.
-\newblock Proceedings of the third annual meeting of the International Society for Experimental Hematology.
-\newblock Houston: International Society for Experimental Hematology, 1974: 44-46.
+\bibitem[Levine et~al.(2016)Levine, Finn, Darrell, and {\textit{et al.}}]{Levine2016EndToEndVisuomotor}
+Levine S, Finn C, Darrell T, et~al.
+\newblock End-to-end training of deep visuomotor policies\allowbreak[J].
+\newblock Journal of Machine Learning Research, 2016, 17\allowbreak (39): 1-40.
 
-\bibitem[郑开青(1987)]{zhengkaiqing1987}
-郑开青.
-\newblock 通讯系统模拟及软件\allowbreak[D].
-\newblock 北京: 清华大学无线电系, 1987.
+\bibitem[Kalashnikov et~al.(2018)Kalashnikov, Irpan, Pastor, and {\textit{et al.}}]{Kalashnikov2018Scalable}
+Kalashnikov D, Irpan A, Pastor P, et~al.
+\newblock Scalable deep reinforcement learning for vision-based robotic manipulation\allowbreak[C]//\allowbreak
+Conference on robot learning.
+\newblock PMLR, 2018: 651-673.
 
-\bibitem[姜锡洲(1980)]{jiangxizhou1980}
-姜锡洲.
-\newblock 一种温热外敷药制备方案: 中国, 88105607.3\allowbreak[P].
-\newblock 1980-07-26.
+\bibitem[Jang et~al.(2022)Jang, Irpan, Khansari, and {\textit{et al.}}]{Jang2022BCZ}
+Jang E, Irpan A, Khansari M, et~al.
+\newblock Bc-z: Zero-shot task generalization with robotic imitation learning\allowbreak[C]//\allowbreak
+Conference on Robot Learning.
+\newblock PMLR, 2022: 991-1002.
 
-\bibitem[中华人民共和国国家技术监督局(1994)]{jianduju1994}
-中华人民共和国国家技术监督局.
-\newblock GB3100-3102. 中华人民共和国国家标准-量与单位\allowbreak[S].
-\newblock 北京: 中国标准出版社, 1994.
+\bibitem[Chi et~al.(2025)Chi, Xu, Feng, and {\textit{et al.}}]{Chi2025DiffusionPolicy}
+Chi C, Xu Z, Feng S, et~al.
+\newblock Diffusion policy: Visuomotor policy learning via action diffusion\allowbreak[J].
+\newblock The International Journal of Robotics Research, 2025, 44: 1684-1704.
 
-\bibitem[Merkt et~al.(1995)Merkt, Mackenzie, and Softley]{merkt1995rotational}
-Merkt F, Mackenzie S~R, Softley T~P.
-\newblock Rotational autoionization dynamics in high rydberg states of nitrogen\allowbreak[J].
-\newblock J Chem Phys, 1995, 103: 4509-4518.
+\bibitem[Ze et~al.(2024)Ze, Zhang, Zhang, and {\textit{et al.}}]{Ze20243DPolicy}
+Ze Y, Zhang G, Zhang K, et~al.
+\newblock 3d diffusion policy: Generalizable visuomotor policy learning via simple 3d representations\allowbreak[A].
+\newblock 2024.
 
-\bibitem[Mellinger et~al.(1996)Mellinger, Vidal, and Jungen]{mellinger1996laser}
-Mellinger A, Vidal C~R, Jungen C.
-\newblock Laser reduced fluorescence study of the carbon monoxide nd triplet rydberg series - experimental results and multichannel quantum defect analysis\allowbreak[J].
-\newblock J Chem Phys, 1996, 104: 8913-8921.
+\bibitem[Huang et~al.(2023)Huang, Batra, Rai, and {\textit{et al.}}]{Huang2023SkillTransformer}
+Huang X, Batra D, Rai A, et~al.
+\newblock Skill transformer: A monolithic policy for mobile manipulation\allowbreak[C]//\allowbreak
+Proceedings of the IEEE/CVF International Conference on Computer Vision.
+\newblock IEEE, 2023: 10852-10862.
 
-\bibitem[Bixon et~al.(1996)Bixon and Jortner]{bixon1996dynamics}
-Bixon M, Jortner J.
-\newblock The dynamics of predissociating high {Rydberg} states of {NO}\allowbreak[J].
-\newblock J Chem Phys, 1996, 105: 1363-1382.
+\bibitem[Fu et~al.(2023)Fu, Cheng, and Pathak]{Fu2023Deep}
+Fu Z, Cheng X, Pathak D.
+\newblock Deep whole-body control: learning a unified policy for manipulation and locomotion\allowbreak[C]//\allowbreak
+Conference on Robot Learning.
+\newblock PMLR, 2023: 138-149.
 
-\bibitem[马辉等(1995)马辉, 李俭, 刘耀明, et~al.]{mahui1995}
-马辉, 李俭, 刘耀明, 等.
-\newblock 利用 {REMPI} 方法测量 {BaF} 高里德堡系列光谱\allowbreak[J].
-\newblock 化学物理学报, 1995, 8: 308-311.
+\bibitem[Fu et~al.(2024)Fu, Zhao, and Finn]{Fu2024MobileAloha}
+Fu Z, Zhao T~Z, Finn C.
+\newblock Mobile aloha: Learning bimanual mobile manipulation with low-cost whole-body teleoperation\allowbreak[A].
+\newblock 2024.
 
-\bibitem[Carlson et~al.(1981)Carlson, Taylor, Jones, and Schawlow]{carlson1981two}
-Carlson N~W, Taylor A~J, Jones K~M, et~al.
-\newblock Two-step polarization-labeling spectroscopy of excited states of {Na2}\allowbreak[J].
-\newblock Phys Rev A, 1981, 24: 822-834.
+\bibitem[Liang et~al.(2022)Liang, Huang, Xia, and {\textit{et al.}}]{Liang2022CodeAsPolicies}
+Liang J, Huang W, Xia F, et~al.
+\newblock Code as policies: Language model programs for embodied control\allowbreak[A].
+\newblock 2022.
 
-\bibitem[Taylor et~al.(1983)Taylor, Jones, and Schawlow]{taylor1983scanning}
-Taylor A~J, Jones K~M, Schawlow A~L.
-\newblock Scanning pulsed-polarization spectrometer applied to {Na2}\allowbreak[J].
-\newblock J Opt Soc Am, 1983, 73: 994-998.
+\bibitem[O'Neill et~al.(2024)O'Neill, Rehman, Maddukuri, and {\textit{et al.}}]{ONeill2024OpenXEmbodiment}
+O'Neill A, Rehman A, Maddukuri A, et~al.
+\newblock Open x-embodiment: Robotic learning datasets and rt-x models : Open x-embodiment collaboration\allowbreak[C]//\allowbreak
+2024 IEEE International Conference on Robotics and Automation (ICRA).
+\newblock IEEE, 2024: 6892-6903.
 
-\bibitem[Taylor et~al.(1981)Taylor, Jones, and Schawlow]{taylor1981study}
-Taylor A~J, Jones K~M, Schawlow A~L.
-\newblock A study of the excited {1$\Sigma$g+} states in {Na2}\allowbreak[J].
-\newblock Opt Commun, 1981, 39: 47-50.
+\bibitem[Intelligence et~al.(2025)Intelligence, Black, Brown, and {\textit{et al.}}]{Intelligence2025pi_05}
+Intelligence P, Black K, Brown N, et~al.
+\newblock $\pi_{0.5}$: a vision-language-action model with open-world generalization\allowbreak[A].
+\newblock 2025.
 
-\bibitem[Shimizu et~al.(1983)Shimizu and Shimizu]{shimizu1983laser}
-Shimizu K, Shimizu F.
-\newblock Laser induced fluorescence spectra of the a {3$\Pi$u--X 1$\Sigma$g+} band of {Na2} by molecular beam\allowbreak[J].
-\newblock J Chem Phys, 1983, 78: 1126-1131.
+\bibitem[Ma et~al.(2024)Ma, Song, Zhuang, and {\textit{et al.}}]{Ma2024Survey}
+Ma Y, Song Z, Zhuang Y, et~al.
+\newblock A survey on vision-language-action models for embodied ai\allowbreak[A].
+\newblock 2024.
 
-\bibitem[Atkinson et~al.(1982)Atkinson, Becker, and Demtr{\"o}der]{atkinson1982experimental}
-Atkinson J~B, Becker J, Demtr{\"o}der W.
-\newblock Experimental observation of the a {3$\Pi$u} state of {Na2}\allowbreak[J].
-\newblock Chem Phys Lett, 1982, 87: 92-97.
+\bibitem[Zhong et~al.(2025)Zhong, Bai, Cai, and {\textit{et al.}}]{Zhong2025Survey}
+Zhong Y, Bai F, Cai S, et~al.
+\newblock A survey on vision-language-action models: An action tokenization perspective\allowbreak[A].
+\newblock 2025.
 
-\bibitem[Kusch et~al.(1975)Kusch and Hessel]{kusch1975perturbations}
-Kusch P, Hessel M~M.
-\newblock Perturbations in the a {1$\Sigma$u+} state of {Na2}\allowbreak[J].
-\newblock J Chem Phys, 1975, 63: 4087-4088.
+\bibitem[Wu et~al.(2025)Wu, Zhou, Xu, and {\textit{et al.}}]{Wu2025MoManipVLA}
+Wu Z, Zhou Y, Xu X, et~al.
+\newblock Momanipvla: Transferring vision-language-action models for general mobile manipulation\allowbreak[C]//\allowbreak
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+\newblock IEEE Computer Society, 2025: 1714-1723.
 
-\bibitem[广西壮族自治区林业厅(1993)]{guangxi1993}
-广西壮族自治区林业厅.
-\newblock 广西自然保护区\allowbreak[M].
-\newblock 北京: 中国林业出版社, 1993.
+\bibitem[Team et~al.(2025)Team and {\textit{et al.}}]{Team2025GeminiRobotics}
+Team G~R, {\textit{et al.}}
+\newblock Gemini robotics: Bringing ai into the physical world\allowbreak[A].
+\newblock 2025.
 
-\bibitem[霍斯尼(1989)]{huosini1989guwu}
-霍斯尼.
-\newblock 谷物科学与工艺学原理\allowbreak[M].
-\newblock 李庆龙, 译. 2 版.
-\newblock 北京: 中国食品出版社, 1989: 15-20.
+\bibitem[James et~al.(2020)James, Ma, Arrojo, and Davison]{James2020RLBench}
+James S, Ma Z, Arrojo D~R, et~al.
+\newblock Rlbench: The robot learning benchmark \& learning environment\allowbreak[J].
+\newblock IEEE Robotics and Automation Letters, 2020, 5\allowbreak (2): 3019-3026.
 
-\bibitem[王夫之(1865（清同治四年）)]{wangfuzhi1865songlun}
-王夫之.
-\newblock 宋论\allowbreak[M].
-\newblock 刻本.
-\newblock 金陵: 曾氏, 1865（清同治四年）.
+\bibitem[Yu et~al.(2020)Yu, Quillen, He, Julian, Hausman, Finn, and Levine]{Yu2020MetaWorld}
+Yu T, Quillen D, He Z, et~al.
+\newblock Meta-world: A benchmark and evaluation for multi-task and meta reinforcement learning\allowbreak[C]//\allowbreak
+Conference on robot learning.
+\newblock PMLR, 2020: 1094-1100.
 
-\bibitem[赵耀东(1998)]{zhaoyaodong1998xinshidai}
-赵耀东.
-\newblock 新时代的工业工程师\allowbreak[M/OL].
-\newblock 台北: 天下文化出版社, 1998\allowbreak[1998-09-26].
-\newblock \url{http://www.ie.nthu.edu.tw/info/ie.newie.htm}.
+\bibitem[Gu et~al.(2023)Gu, Xiang, Li, Ling, Liu, Mu, Tang, Tao, Wei, Yao, and {\textit{et al.}}]{Gu2023ManiSkill2}
+Gu J, Xiang F, Li X, et~al.
+\newblock Maniskill2: A unified benchmark for generalizable manipulation skills\allowbreak[A].
+\newblock 2023.
 
-\bibitem[全国信息与文献工作标准化技术委员会出版物格式分委员会(2002)]{biaozhunhua2002tushu}
-全国信息与文献工作标准化技术委员会出版物格式分委员会.
-\newblock GB/T 12450-2001 图书书名页\allowbreak[S].
-\newblock 北京: 中国标准出版社, 2002: 1.
+\bibitem[Mees et~al.(2022)Mees, Hermann, Rosete-Beas, and Burgard]{Mees2022CALVIN}
+Mees O, Hermann L, Rosete-Beas E, et~al.
+\newblock Calvin: A benchmark for language-conditioned policy learning for long-horizon robot manipulation tasks\allowbreak[J].
+\newblock IEEE Robotics and Automation Letters, 2022, 7\allowbreak (3): 7327-7334.
 
-\bibitem[全国出版专业职业资格考试办公室(2004)]{chubanzhuanye2004}
-全国出版专业职业资格考试办公室.
-\newblock 全国出版专业职业资格考试辅导教材: 出版专业理论与实务•中级\allowbreak[M].
-\newblock 2014 版.
-\newblock 上海: 上海辞书出版社, 2004: 299-307.
+\bibitem[Liu et~al.(2023)Liu, Zhu, Gao, Feng, Liu, Zhu, and Stone]{Liu2023Libero}
+Liu B, Zhu Y, Gao C, et~al.
+\newblock Libero: Benchmarking knowledge transfer for lifelong robot learning\allowbreak[J].
+\newblock Advances in Neural Information Processing Systems, 2023, 36: 44776-44791.
 
-\bibitem[{World Health Organization}(1970)]{who1970factors}
-{World Health Organization}.
-\newblock Factors regulating the immune response: Report of {WHO Scientific Group}\allowbreak[R].
-\newblock Geneva: WHO, 1970.
+\bibitem[Zhang et~al.(2025)Zhang, Xu, Liu, Yu, Li, Gao, Fei, Yin, Wu, Jiang, and {\textit{et al.}}]{Zhang2025VLBench}
+Zhang S, Xu Z, Liu P, et~al.
+\newblock Vlabench: A large-scale benchmark for language-conditioned robotics manipulation with long-horizon reasoning tasks\allowbreak[C]//\allowbreak
+Proceedings of the IEEE/CVF International Conference on Computer Vision.
+\newblock IEEE, 2025: 11142-11152.
 
-\bibitem[Peebles(2001)]{peebles2001probability}
-Peebles P~Z, Jr.
-\newblock Probability, random variables, and random signal principles\allowbreak[M].
-\newblock 4th ed.
-\newblock New York: McGraw Hill, 2001.
+\bibitem[Szot et~al.(2021)Szot, Clegg, Undersander, Wijmans, Zhao, Turner, Maestre, Mukadam, Chaplot, Maksymets, and {\textit{et al.}}]{Szot2021Habitat}
+Szot A, Clegg A, Undersander E, et~al.
+\newblock Habitat 2.0: Training home assistants to rearrange their habitat\allowbreak[J].
+\newblock Advances in neural information processing systems, 2021, 34: 251-266.
 
-\bibitem[白书农(1998)]{baishunong1998zhiwu}
-白书农.
-\newblock 植物开花研究\allowbreak[M]//\allowbreak
-李承森.
-\newblock 植物科学进展.
-\newblock 北京: 高等教育出版社, 1998: 146-163.
+\bibitem[Li et~al.(2021)Li, Xia, Mart{\'\i}n-Mart{\'\i}n, Lingelbach, Srivastava, Shen, Vainio, Gokmen, Dharan, Jain, and {\textit{et al.}}]{Li2021iGibson}
+Li C, Xia F, Mart{\'\i}n-Mart{\'\i}n R, et~al.
+\newblock igibson 2.0: Object-centric simulation for robot learning of everyday household tasks\allowbreak[A].
+\newblock 2021.
 
-\bibitem[Weinstein et~al.(1974)Weinstein and Swertz]{weinstein1974pathogenic}
-Weinstein L, Swertz M~N.
-\newblock Pathogenic properties of invading microorganism\allowbreak[M]//\allowbreak
-Sodeman W~A, Jr, Sodeman W~A.
-\newblock Pathologic physiology: mechanisms of disease.
-\newblock Philadelphia: Saunders, 1974: 745-772.
+\bibitem[Li et~al.(2023)Li, Zhang, Wong, Gokmen, Srivastava, Mart{\'\i}n-Mart{\'\i}n, Wang, Levine, Lingelbach, Sun, and {\textit{et al.}}]{Li2023Behavior1K}
+Li C, Zhang R, Wong J, et~al.
+\newblock Behavior-1k: A benchmark for embodied ai with 1,000 everyday activities and realistic simulation\allowbreak[C]//\allowbreak
+Conference on Robot Learning.
+\newblock PMLR, 2023: 80-93.
 
-\bibitem[韩吉人(1985)]{hanjiren1985lun}
-韩吉人.
-\newblock 论职工教育的特点\allowbreak[C]//\allowbreak
-中国职工教育研究会.
-\newblock 职工教育研究论文集.
-\newblock 北京: 人民教育出版社, 1985: 90-99.
+\bibitem[Paxton et~al.(2023)Paxton, Wang, Shah, Matulevich, Shah, Yadav, Ramakrishnan, Yenamandra, and Bisk]{Paxton2023HomeRobot}
+Paxton C, Wang A, Shah B, et~al.
+\newblock Homerobot: An open source software stack for mobile manipulation research\allowbreak[C]//\allowbreak
+Proceedings of the AAAI Symposium Series: Vol.~2.
+\newblock 2023: 518-525.
 
-\bibitem[中国地质学会(1936)]{dizhi1936dizhi}
-中国地质学会.
-\newblock 地质评论\allowbreak[J].
-\newblock 1936, 1\allowbreak (1)--.
-\newblock 北京: 地质出版社, 1936--.
+\bibitem[Jaafar et~al.(2024)Jaafar, Raman, Wei, Juliani, Wernerfelt, Quartey, Idrees, Liu, Tellex, and {\textit{et al.}}]{Jaafar2024LaNMP}
+Jaafar A, Raman S~S, Wei Y, et~al.
+\newblock Lanmp: A language-conditioned mobile manipulation benchmark for autonomous robots\allowbreak[A].
+\newblock 2024.
 
-\bibitem[中国图书馆学会(1957/1990)]{tushuguan1957tushuguanxue}
-中国图书馆学会.
-\newblock 图书馆学通讯\allowbreak[J].
-\newblock 1957\allowbreak (1)--1990\allowbreak (4).
-\newblock 北京: 北京图书馆, 1957--1990.
+\bibitem[Zhu et~al.(2020)Zhu, Wong, Mandlekar, Mart{\'\i}n-Mart{\'\i}n, Joshi, Nasiriany, and Zhu]{Zhu2020RoboSuite}
+Zhu Y, Wong J, Mandlekar A, et~al.
+\newblock Robosuite: A modular simulation framework and benchmark for robot learning\allowbreak[A].
+\newblock 2020.
 
-\bibitem[{American Association for the Advancement of Science}(1883)]{aaas1883science}
-{American Association for the Advancement of Science}.
-\newblock Science\allowbreak[J].
-\newblock 1883, 1\allowbreak (1)--.
-\newblock Washington, D.C.: American Association for the Advancement of Science, 1883--.
-
-\bibitem[傅刚等(2000)傅刚, 赵承, and 李佳路]{fugang2000fengsha}
-傅刚, 赵承, 李佳路.
-\newblock 大风沙过后的思考\allowbreak[N/OL].
-\newblock 北京青年报, 2000-04-12\allowbreak (14)\allowbreak[2002-03-06].
-\newblock \url{http://www.bjyouth.com.cn/Bqb/20000412/B/4216%5ED0412B1401.htm}.
-
-\bibitem[萧钰(2001)]{xiaoyu2001chubanye}
-萧钰.
-\newblock 出版业信息化迈入快车道\allowbreak[EB/OL].
-\newblock \allowbreak(2001-12-19)\allowbreak[2002-04-15].
-\newblock \url{http://www.creader.com/news/20011219/200112190019.htm}.
-
-\bibitem[{Online Computer Library Center, Inc}(2000)]{oclc2000about}
-{Online Computer Library Center, Inc}.
-\newblock About {OCLC}: History of cooperation\allowbreak[EB/OL].
-\newblock 2000\allowbreak[2000-01-08].
-\newblock \url{http://www.oclc.org/about/cooperation.en.htm}.
-
-\bibitem[{Scitor Corporation}(1983)]{scitor2000project}
-{Scitor Corporation}.
-\newblock Project scheduler\allowbreak[CP/DK].
-\newblock Sunnyvale, Calif.: Scitor Corporation, 1983.
+\bibitem[Makoviychuk et~al.(2021)Makoviychuk, Wawrzyniak, Guo, Lu, Storey, Macklin, Hoeller, Rudin, Allshire, Handa, and {\textit{et al.}}]{Makoviychuk2021IsaacGym}
+Makoviychuk V, Wawrzyniak L, Guo Y, et~al.
+\newblock Isaac gym: High performance gpu-based physics simulation for robot learning\allowbreak[A].
+\newblock 2021.
 
 \end{thebibliography}
