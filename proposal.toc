@@ -11,15 +11,17 @@
 \contentsline {chapter}{\numberline {第3章}课题主要研究内容}{12}{chapter.3}%
 \contentsline {section}{\numberline {3.1}拟解决的关键问题}{12}{section.3.1}%
 \contentsline {section}{\numberline {3.2}拟研究内容}{12}{section.3.2}%
-\contentsline {chapter}{\numberline {第4章}引用文献的标注}{13}{chapter.4}%
-\contentsline {section}{\numberline {4.1}顺序编码制}{13}{section.4.1}%
-\contentsline {section}{\numberline {4.2}著者-出版年制}{13}{section.4.2}%
-\contentsline {chapter}{\numberline {第5章}预期创新点与研究成果}{14}{chapter.5}%
-\contentsline {section}{\numberline {5.1}预期创新点}{14}{section.5.1}%
-\contentsline {section}{\numberline {5.2}预期成果}{14}{section.5.2}%
-\contentsline {chapter}{\numberline {第6章}研究计划与进展}{15}{chapter.6}%
-\contentsline {section}{\numberline {6.1}已完成工作概括}{15}{section.6.1}%
-\contentsline {section}{\numberline {6.2}在学期间发表的学术论文与研究成果}{15}{section.6.2}%
-\contentsline {section}{\numberline {6.3}研究计划}{16}{section.6.3}%
-\contentsline {chapter}{参考文献}{17}{section*.6}%
+\contentsline {chapter}{\numberline {第4章}研究方法与技术路线}{13}{chapter.4}%
+\contentsline {section}{\numberline {4.1}面向实验室场景的移动操作系统设计}{13}{section.4.1}%
+\contentsline {section}{\numberline {4.2}双臂协同精细操作决策方法}{17}{section.4.2}%
+\contentsline {section}{\numberline {4.3}通用移动操作任务Benchmark构建}{19}{section.4.3}%
+\contentsline {section}{\numberline {4.4}技术路线总结}{21}{section.4.4}%
+\contentsline {chapter}{\numberline {第5章}预期创新点与研究成果}{22}{chapter.5}%
+\contentsline {section}{\numberline {5.1}预期创新点}{22}{section.5.1}%
+\contentsline {section}{\numberline {5.2}预期成果}{22}{section.5.2}%
+\contentsline {chapter}{\numberline {第6章}研究计划与进展}{23}{chapter.6}%
+\contentsline {section}{\numberline {6.1}已完成工作概括}{23}{section.6.1}%
+\contentsline {section}{\numberline {6.2}在学期间发表的学术论文与研究成果}{23}{section.6.2}%
+\contentsline {section}{\numberline {6.3}研究计划}{24}{section.6.3}%
+\contentsline {chapter}{参考文献}{25}{section*.16}%
 \contentsfinish 

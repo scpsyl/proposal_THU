@@ -1,20 +1,20 @@
 # Fdb version 4
-["bibtex proposal"] 1763205954.66872 "proposal.aux" "proposal.bbl" "proposal" 1763209575.07443 0
-  "./ref/refs.bib" 1763200228 23527 2cf2dc1d4b3bb5f39068d55e90760b3b ""
+["bibtex proposal"] 1763303850.44769 "proposal.aux" "proposal.bbl" "proposal" 1763303911.57575 0
+  "./ref/refs.bib" 1763303840 23922 ddbc0d55a1d11c8c272edbe45a751ba7 ""
   "./thuthesis-numeric.bst" 1743125438 46501 76355add456694ad46ab5897d31bf849 ""
-  "bu.aux" 1763209573 7029 b7ef3b733e9e7ce14d2441db00030727 "xelatex"
-  "proposal.aux" 1763209573 6021 aabdcf1e5504bb0c2925783770a4a4a2 "xelatex"
+  "bu.aux" 1763303855 7154 1960f29c8ce801565800283ddf5e8336 "xelatex"
+  "proposal.aux" 1763303855 9128 b7a3814bc9505c908a4965e0f138f104 "xelatex"
   (generated)
   "proposal.bbl"
   "proposal.blg"
   (rewritten before read)
-["xdvipdfmx"] 1763209574.36561 "proposal.xdv" "proposal.pdf" "proposal" 1763209575.08876 0
-  "proposal.xdv" 1763209573 495240 42ee2bd2d3c8d6c97f3ce1cf2df88e67 "xelatex"
+["xdvipdfmx"] 1763303856.5052 "proposal.xdv" "proposal.pdf" "proposal" 1763303911.59116 0
+  "proposal.xdv" 1763303855 611688 888ea3aa0a28162af74b9d1ee310e47c "xelatex"
   (generated)
   "proposal.pdf"
   (rewritten before read)
-["xelatex"] 1763209569.46621 "d:/Desktop/硕士毕业论文/thuthesis-v7.6.0/proposal.tex" "proposal.xdv" "proposal" 1763209575.07524 0
-  "bu.aux" 1763209573 7029 b7ef3b733e9e7ce14d2441db00030727 "xelatex"
+["xelatex"] 1763303850.8539 "d:/Desktop/硕士毕业论文/thuthesis-v7.6.0/proposal.tex" "proposal.xdv" "proposal" 1763303911.57644 0
+  "bu.aux" 1763303855 7154 1960f29c8ce801565800283ddf5e8336 "xelatex"
   "d:/Desktop/硕士毕业论文/thuthesis-v7.6.0/proposal.tex" 1763203475 2529 d12833b2aa1ef6ea7f8c1716645c32f8 ""
   "d:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1727872558 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "d:/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1727873974 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
@@ -148,18 +148,28 @@
   "d:/texlive/2024/texmf.cnf" 1727873989 713 e69b156964470283e0530f5060668171 ""
   "data/chap01.tex" 1763192801 16581 100c37c9a74b853d32b253324b932797 ""
   "data/chap02.tex" 1763207828 38734 a4f14e94cc8ed2c816cdc3eb6bd18298 ""
-  "data/chap03.tex" 1763203102 2164 3e5abffdb834614ae5338a72bea14c15 ""
-  "data/chap04.tex" 1763203369 3274 9d60f375d2caa481381928bb07ad68b5 ""
-  "data/chap05.tex" 1763209557 1142 05336b2bb79798459af361d6dcc06e3b ""
-  "data/chap06.tex" 1763209195 3666 ed63b2bbd597fdb6bc1a94f26e97713c ""
+  "data/chap03.tex" 1763303486 2258 73066ac40abe5aabe3c5d86773d2b17c ""
+  "data/chap04.tex" 1763303841 18356 7b04d3bd1d8b4a8d337a5db46f7d0e54 ""
+  "data/chap05.tex" 1763303403 1404 ea1f686531eec985dfc7e2996bf3c1e3 ""
+  "data/chap06.tex" 1763303491 3639 68e7f124fd04cf14a8681bdb250aee68 ""
+  "figures/ChemistryNav.png" 1746085796 1301161 d6006fd0a2f216afdc3cb67af238610a ""
+  "figures/Hardware.png" 1746085796 8701649 140ead1488069038537b99d26b06ca5e ""
+  "figures/avr-architecture.png" 1741183270 6812988 17c7c51fc0092fa230cda805a77a4067 ""
+  "figures/avr-evaluation.png" 1757982615 86143 2b8496eb55957d228eda99790c742a77 ""
+  "figures/avr-overview.png" 1742746016 14016575 229de952347fa48de99d9098ac2f85b6 ""
+  "figures/detection.png" 1746085796 2958516 0f151f1ca23d84e90fd3248712ac76c0 ""
+  "figures/manipulation.png" 1746085796 2575417 a2a19d7ed6d767a9e8360415e0c336fa ""
   "figures/overview.pdf" 1763187143 388143 e4cdcd016be70238d8fa21485642d99b ""
-  "proposal.aux" 1763209573 6021 aabdcf1e5504bb0c2925783770a4a4a2 "xelatex"
-  "proposal.bbl" 1763205954 19780 7199f6579eca7d0418c82ca5b71d0d8d "bibtex proposal"
-  "proposal.out" 1763209573 3696 bd781c7692c5cc4ea2a528427a8a94ec "xelatex"
+  "figures/scene.png" 1763301219 2208347 e62182e0ccd7b6f47f65cedf6e495015 ""
+  "figures/sys-overview.png" 1746085796 7320216 f819bb19fb6ecd539dcb12cabe37b757 ""
+  "figures/wb-vima.png" 1763301140 711273 39b9be6891d9c21638bd73db68667e3b ""
+  "proposal.aux" 1763303855 9128 b7a3814bc9505c908a4965e0f138f104 "xelatex"
+  "proposal.bbl" 1763303850 20172 58503a15e2a2c76961c0d67572aa9f2d "bibtex proposal"
+  "proposal.out" 1763303855 4173 05e19089af17b53b0dec9f98beeb5b19 "xelatex"
   "proposal.tex" 1763203475 2529 d12833b2aa1ef6ea7f8c1716645c32f8 ""
-  "proposal.toc" 1763209573 2039 bd2a05259af9b07e092cb8e4499874fe "xelatex"
+  "proposal.toc" 1763303855 2275 104b41fbd87abaf854e3296364b0c38b "xelatex"
   "thusetup.tex" 1763182583 5737 40041c50ca97fe78a7291564a395034b ""
-  "thuthesis.cls" 1763209568 116161 a4225fa8bd833003ae00347072cd7dce ""
+  "thuthesis.cls" 1763303844 116161 a4225fa8bd833003ae00347072cd7dce ""
   (generated)
   "bu.aux"
   "proposal.aux"

@@ -1,4 +1,4 @@
-\begin{thebibliography}{65}
+\begin{thebibliography}{67}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax\else
@@ -340,7 +340,7 @@ Li C, Xia F, Mart{\'\i}n-Mart{\'\i}n R, et~al.
 \newblock igibson 2.0: Object-centric simulation for robot learning of everyday household tasks\allowbreak[A].
 \newblock 2021.
 
-\bibitem[Li et~al.(2023)Li, Zhang, Wong, Gokmen, Srivastava, Mart{\'\i}n-Mart{\'\i}n, Wang, Levine, Lingelbach, Sun, and {\textit{et al.}}]{Li2023Behavior1K}
+\bibitem[Li et~al.(2023)Li, Zhang, Wong, and {\textit{et al.}}]{Li2023Behavior1K}
 Li C, Zhang R, Wong J, et~al.
 \newblock Behavior-1k: A benchmark for embodied ai with 1,000 everyday activities and realistic simulation\allowbreak[C]//\allowbreak
 Conference on Robot Learning.
@@ -366,5 +366,15 @@ Zhu Y, Wong J, Mandlekar A, et~al.
 Makoviychuk V, Wawrzyniak L, Guo Y, et~al.
 \newblock Isaac gym: High performance gpu-based physics simulation for robot learning\allowbreak[A].
 \newblock 2021.
+
+\bibitem[Zhao et~al.(2023)Zhao, Kumar, Levine, and {\textit{et al.}}]{Zhao2023Learning}
+Zhao T~Z, Kumar V, Levine S, et~al.
+\newblock Learning fine-grained bimanual manipulation with low-cost hardware\allowbreak[A].
+\newblock 2023.
+
+\bibitem[Black et~al.(2024)Black, Brown, Driess, and {\textit{et al.}}]{Black2024pi_0}
+Black K, Brown N, Driess D, et~al.
+\newblock $\pi_0$: A vision-language-action flow model for general robot control\allowbreak[A].
+\newblock 2024.
 
 \end{thebibliography}

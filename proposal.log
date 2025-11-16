@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.2)  15 NOV 2025 20:26
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.2)  16 NOV 2025 22:37
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1225,13 +1225,53 @@ LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
 
 ]
 第4章
-LaTeX Font Info:    Font shape `TU/CourierNew(0)/m/n' will be
-(Font)              scaled to size 12.74046pt on input line 11.
-) (./data/chap05.tex [13
+File: figures/sys-overview.png Graphic file (type bmp)
+<figures/sys-overview.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[13
 
 ]
+File: figures/Hardware.png Graphic file (type bmp)
+<figures/Hardware.png>
+ [14]
+File: figures/ChemistryNav.png Graphic file (type bmp)
+<figures/ChemistryNav.png>
+File: figures/detection.png Graphic file (type bmp)
+<figures/detection.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[15]
+File: figures/manipulation.png Graphic file (type bmp)
+<figures/manipulation.png>
+ [16]
+File: figures/avr-overview.png Graphic file (type bmp)
+<figures/avr-overview.png>
+File: figures/avr-architecture.png Graphic file (type bmp)
+<figures/avr-architecture.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[17]
+File: figures/avr-evaluation.png Graphic file (type bmp)
+<figures/avr-evaluation.png>
+ [18]
+File: figures/scene.png Graphic file (type bmp)
+<figures/scene.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[19]
+File: figures/wb-vima.png Graphic file (type bmp)
+<figures/wb-vima.png>
+ [20]) (./data/chap05.tex [21]
 第5章
-) (./data/chap06.tex [14
+) (./data/chap06.tex [22
 
 ]
 第6章
@@ -1251,12 +1291,12 @@ LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
 (Font)              scaled to size 7.728pt on input line 30.
 LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
 (Font)              scaled to size 5.52002pt on input line 30.
-[15
+[23
 
 ])
 \openout3 = `bu.aux'.
 
- (./proposal.bbl [16]
+ (./proposal.bbl [24]
 LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
 (Font)              scaled to size 7.00075pt on input line 33.
 LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
@@ -1265,24 +1305,24 @@ LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
 (Font)              scaled to size 6.99925pt on input line 33.
 LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
 (Font)              scaled to size 4.99947pt on input line 33.
- [17
+ [25
 
 
-] [18] [19]) (./bu.aux) [20] (./proposal.aux (./bu.aux))
+] [26] [27]) (./bu.aux) [28] (./proposal.aux (./bu.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `proposal.out' has not changed.
-(rerunfilecheck)             Checksum: BD781C7692C5CC4EA2A528427A8A94EC;3696.
+(rerunfilecheck)             Checksum: 05E19089AF17B53B0DEC9F98BEEB5B19;4173.
  ) 
 Here is how much of TeX's memory you used:
- 31481 strings out of 474773
- 683596 string characters out of 5761289
+ 31605 strings out of 474773
+ 687316 string characters out of 5761289
  1956842 words of memory out of 5000000
- 53125 multiletter control sequences out of 15000+600000
- 566537 words of font info for 167 fonts, out of 8000000 for 9000
+ 53237 multiletter control sequences out of 15000+600000
+ 566545 words of font info for 168 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
  106i,11n,130p,1445b,2768s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on proposal.xdv (22 pages, 495240 bytes).
+Output written on proposal.xdv (30 pages, 611688 bytes).
